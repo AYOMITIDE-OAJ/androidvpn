@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:checkable="false"
+            android:icon="@drawable/homeicon"
+            android:title="Home" />
+
+
+        <item
+            android:id="@+id/nav_speedtest"
+            android:checkable="false"
+            android:icon="@drawable/networkspeed2"
+            android:title="Speed Test" />
+
+        <item
+            android:id="@+id/nav_speedbooster"
+            android:checkable="false"
+            android:icon="@drawable/boosternav"
+            android:title="Speed Booster" />
+
+
+
+
+
+        <item
+            android:id="@+id/nav_vpnlist"
+            android:checkable="false"
+            android:icon="@drawable/connection"
+            android:title="VPN Connection"
+            android:visible="false" />
+
+    </group>
+
+    <item android:title="Select Option">
+    <menu>
+
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/sharewith"
+            android:title="Share App" />
+
+        <item
+            android:id="@+id/about_me"
+            android:icon="@drawable/aboutus"
+            android:title="About Us" />
+
+        <item
+            android:id="@+id/privacypolicy"
+            android:icon="@drawable/privacypolicy"
+            android:title="Privacy Policy" />
+
+        <item
+            android:id="@+id/rate_us"
+            android:icon="@drawable/rateus"
+            android:title="Rate Us" />
+
+        <item
+            android:id="@+id/moreapp"
+            android:icon="@drawable/moreapps"
+            android:title="More Apps" />
+
+
+    </menu>
+    </item>
+</menu>
