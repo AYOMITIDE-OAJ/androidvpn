@@ -24,12 +24,12 @@
         "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\button3.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ua.png.flat",
-        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ua.png"
-    },
-    {
         "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\font_calibri.ttf.flat",
         "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\font\\calibri.ttf"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ua.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ua.png"
     },
     {
         "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tc.png.flat",

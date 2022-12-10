@@ -11,8 +11,7 @@ import android.os.ParcelFileDescriptor;
 import androidx.annotation.NonNull;
 import android.util.Log;
 
-import com.abc.evpnfree.BuildConfig;
-import com.abc.evpnfree.R;
+import com.oajstudios.evpn.R;
 
 
 import java.io.FileDescriptor;

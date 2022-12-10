@@ -88,7 +88,7 @@ INJECTED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest
 INJECTED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:2:1-105:12
 INJECTED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:2:1-105:12
 	package
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:4:5-31
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:4:5-34
 		INJECTED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -276,39 +276,39 @@ MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\hp\.gradl
 	android:theme
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:32:9-40
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:25:9-54
-activity#com.abc.evpnfree.activity.SplashActivity
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:25:9-57
+activity#com.oajstudios.evpn.activity.SplashActivity
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:34:9-37:45
 	android:noHistory
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:36:13-37
 	android:theme
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:37:13-42
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:35:13-68
-activity#com.abc.evpnfree.activity.MainActivity
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:35:13-71
+activity#com.oajstudios.evpn.activity.MainActivity
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:38:9-42:20
 	android:label
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:40:13-29
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:39:13-66
-activity#com.abc.evpnfree.activity.VPNListActivity
-ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:43:9-78
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:39:13-69
+activity#com.oajstudios.evpn.activity.VPNListActivity
+ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:43:9-81
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:43:19-75
-activity#com.abc.evpnfree.activity.VPNInfoActivity
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:43:19-78
+activity#com.oajstudios.evpn.activity.VPNInfoActivity
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:44:9-46:46
 	android:launchMode
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:46:13-43
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:45:13-69
-activity#com.abc.evpnfree.activity.SettingsActivity
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:45:13-72
+activity#com.oajstudios.evpn.activity.SettingsActivity
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:47:9-50:40
 	android:label
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:49:13-52
 	android:noHistory
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:50:13-37
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:48:13-70
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:48:13-73
 service#de.blinkt.openvpn.core.OpenVPNService
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:52:9-60:19
 	android:exported
@@ -323,18 +323,18 @@ action#android.net.VpnService
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:58:17-65
 	android:name
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:58:25-62
-activity#com.abc.evpnfree.activity.SpeedTestActivity
+activity#com.oajstudios.evpn.activity.SpeedTestActivity
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:62:9-64:42
 	android:label
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:64:13-39
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:63:13-71
-activity#com.abc.evpnfree.activity.TOSActivity
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:63:13-74
+activity#com.oajstudios.evpn.activity.TOSActivity
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:65:9-67:48
 	android:theme
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:67:13-45
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:66:13-65
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:66:13-68
 activity#com.google.android.gms.ads.AdActivity
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:68:9-71:64
 MERGED from [com.google.android.gms:play-services-ads-lite:21.3.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2a6225803700f471868b00aa6b29589\jetified-play-services-ads-lite-21.3.0\AndroidManifest.xml:49:9-53:64
@@ -347,24 +347,24 @@ MERGED from [com.google.android.gms:play-services-ads-lite:21.3.0] C:\Users\hp\.
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:71:13-61
 	android:name
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:69:13-65
-activity#com.abc.evpnfree.activity.StepActivity
+activity#com.oajstudios.evpn.activity.StepActivity
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:72:9-76:20
 	android:theme
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:74:13-42
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:73:13-66
-activity#com.abc.evpnfree.activity.FragmentWrapperActivity
-ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:78:9-86
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:73:13-69
+activity#com.oajstudios.evpn.activity.FragmentWrapperActivity
+ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:78:9-89
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:78:19-83
-activity#com.abc.evpnfree.activity.WelcomeActivity
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:78:19-86
+activity#com.oajstudios.evpn.activity.WelcomeActivity
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:79:9-90:20
 	android:exported
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:81:13-36
 	android:theme
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:80:13-45
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:79:19-75
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:79:19-78
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:84:13-88:29
 action#android.intent.action.MAIN
@@ -389,12 +389,12 @@ ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xm
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:97:13-49
 	android:name
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:96:13-69
-receiver#com.abc.evpnfree.service.BoostAlarm
-ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:100:9-102:66
+receiver#com.oajstudios.evpn.service.BoostAlarm
+ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:100:9-102:69
 	android:exported
 		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:101:13-36
 	android:name
-		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:102:13-63
+		ADDED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:102:13-66
 uses-sdk
 INJECTED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml
@@ -577,7 +577,7 @@ ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms
 		ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:9:9-44
 	android:name
 		ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:8:9-63
-permission#com.abc.evpnfree.permission.C2D_MESSAGE
+permission#com.oajstudios.evpn.permission.C2D_MESSAGE
 ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:7:5-9:47
 	android:protectionLevel
 		ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:9:9-44
@@ -587,7 +587,7 @@ uses-permission#${applicationId}.permission.C2D_MESSAGE
 ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:11:22-76
-uses-permission#com.abc.evpnfree.permission.C2D_MESSAGE
+uses-permission#com.oajstudios.evpn.permission.C2D_MESSAGE
 ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:11:22-76
@@ -681,7 +681,7 @@ intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:$
 ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:56:13-60:29
 	android:priority
 		ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:56:28-50
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.abc.evpnfree
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.oajstudios.evpn
 ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:56:13-60:29
 	android:priority
 		ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:56:28-50
@@ -693,7 +693,7 @@ category#${applicationId}
 ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:59:17-61
 	android:name
 		ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:59:27-58
-category#com.abc.evpnfree
+category#com.oajstudios.evpn
 ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:59:17-61
 	android:name
 		ADDED from [com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:59:27-58

@@ -1,4 +1,4 @@
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:77
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:77
--keep class com.abc.evpnfree.AppController { <init>(); }
+-keep class com.oajstudios.evpn.AppController { <init>(); }

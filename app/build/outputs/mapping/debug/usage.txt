@@ -466,7 +466,6 @@ androidx.constraintlayout.core.motion.utils.LinearCurveFit:
     private double getLength2D(double)
     private static final java.lang.String TAG
 org.achartengine.chart.RangeStackedBarChart
-com.abc.evpnfree.R$anim
 com.google.android.gms.common.api.internal.DataHolderResult
 androidx.activity.result.contract.ActivityResultContracts$TakePicturePreview
 androidx.browser.trusted.TrustedWebActivityIntent
@@ -516,41 +515,6 @@ com.google.android.gms.ads.internal.client.zzap
 com.onesignal.outcomes.domain.OSOutcomeSource:
     public final void setDirectBody(com.onesignal.outcomes.domain.OSOutcomeSourceBody)
     public final void setIndirectBody(com.onesignal.outcomes.domain.OSOutcomeSourceBody)
-com.abc.evpnfree.database.DBHelper:
-    public void setBookmark(com.abc.evpnfree.model.Server)
-    public void delBookmark(com.abc.evpnfree.model.Server)
-    public java.util.List getBookmarks()
-    public boolean checkBookmark(com.abc.evpnfree.model.Server)
-    public long getCountBasic()
-    public long getCountAdditional()
-    public java.util.List getServersWithGPS()
-    private static final int DATABASE_VERSION
-    private static final java.lang.String DATABASE_NAME
-    private static final java.lang.String TABLE_SERVERS
-    private static final java.lang.String TABLE_BOOKMARK_SERVERS
-    private static final java.lang.String TAG
-    private static final java.lang.String KEY_ID
-    private static final java.lang.String KEY_HOST_NAME
-    private static final java.lang.String KEY_IP
-    private static final java.lang.String KEY_SCORE
-    private static final java.lang.String KEY_PING
-    private static final java.lang.String KEY_SPEED
-    private static final java.lang.String KEY_COUNTRY_LONG
-    private static final java.lang.String KEY_COUNTRY_SHORT
-    private static final java.lang.String KEY_NUM_VPN_SESSIONS
-    private static final java.lang.String KEY_UPTIME
-    private static final java.lang.String KEY_TOTAL_USERS
-    private static final java.lang.String KEY_TOTAL_TRAFFIC
-    private static final java.lang.String KEY_LOG_TYPE
-    private static final java.lang.String KEY_OPERATOR
-    private static final java.lang.String KEY_MESSAGE
-    private static final java.lang.String KEY_CONFIG_DATA
-    private static final java.lang.String KEY_TYPE
-    private static final java.lang.String KEY_QUALITY
-    private static final java.lang.String KEY_CITY
-    private static final java.lang.String KEY_REGION_NAME
-    private static final java.lang.String KEY_LAT
-    private static final java.lang.String KEY_LON
 androidx.core.content.pm.ShortcutInfoCompatSaver$NoopImpl
 androidx.transition.Transition$ArrayListManager
 kotlin.LazyThreadSafetyMode
@@ -588,9 +552,6 @@ androidx.media.MediaSessionManager$MediaSessionManagerImpl
 androidx.core.app.unusedapprestrictions.IUnusedAppRestrictionsBackportCallback$Stub$Proxy
 androidx.constraintlayout.motion.widget.ViewTransition
 com.androidnetworking.internal.ANImageLoader$1
-com.abc.evpnfree.util.encoders.Encoder:
-    public abstract int decode(byte[],int,int,java.io.OutputStream)
-    public abstract int decode(java.lang.String,java.io.OutputStream)
 kotlin.time.AbstractDoubleTimeSource$DoubleTimeMark
 okhttp3.internal.http.RequestException:
     public void <init>(java.io.IOException)
@@ -852,6 +813,8 @@ androidx.core.view.GestureDetectorCompat$GestureDetectorCompatImplBase$GestureHa
 com.google.android.gms.common.zzs
 android.support.v4.media.session.MediaSessionCompat$MediaSessionImplBase$MediaSessionStub
 kotlin.concurrent.ThreadsKt$thread$thread$1
+com.oajstudios.evpn.util.NetworkState:
+    public void <init>()
 kotlin.ranges.UIntProgression$Companion
 com.google.android.gms.common.GooglePlayServicesManifestException:
     public int getActualVersion()
@@ -1074,6 +1037,8 @@ androidx.core.provider.FontsContractCompat$FontRequestCallback:
     public static final int FAIL_REASON_MALFORMED_QUERY
 com.onesignal.OSInAppMessagePageKt
 androidx.slidingpanelayout.R$id
+com.oajstudios.evpn.activity.SplashActivity$3:
+    public void onError(com.androidnetworking.error.ANError)
 androidx.core.view.WindowInsetsControllerCompat$Impl30
 kotlin.sequences.SequencesKt___SequencesKt$filterIsInstance$1
 androidx.core.provider.DocumentsContractCompat$DocumentsContractApi21Impl
@@ -1139,7 +1104,6 @@ androidx.work.Constraints$Builder:
 com.google.android.gms.internal.measurement.zzdq
 androidx.gridlayout.widget.GridLayout$7
 androidx.core.app.AppComponentFactory
-com.abc.evpnfree.R$xml
 com.google.gson.internal.bind.TreeTypeAdapter:
     public static com.google.gson.TypeAdapterFactory newFactory(com.google.gson.reflect.TypeToken,java.lang.Object)
     public static com.google.gson.TypeAdapterFactory newFactoryWithMatchRawType(com.google.gson.reflect.TypeToken,java.lang.Object)
@@ -1878,6 +1842,7 @@ kotlin.collections.CollectionsKt__IterablesKt:
     public static final java.util.List flatten(java.lang.Iterable)
     public static final kotlin.Pair unzip(java.lang.Iterable)
     public void <init>()
+com.oajstudios.evpn.R$dimen
 androidx.transition.GhostViewPort$1
 com.google.android.gms.common.internal.ClientIdentity
 com.google.android.gms.internal.base.zai
@@ -1939,6 +1904,12 @@ androidx.constraintlayout.core.motion.utils.SpringStopEngine
 kotlin.time.TimeMark
 com.google.firebase.FirebaseAppLifecycleListener
 kotlin.collections.builders.AbstractMapBuilderEntrySet
+com.oajstudios.evpn.activity.VPNInfoActivity:
+    private android.widget.Button unblockCheck
+    private android.widget.ImageButton bookmark
+    private android.widget.TextView textView
+    private static final int START_VPN_PROFILE
+    public static final java.lang.String BROADCAST_ACTION
 androidx.room.RoomOpenHelper:
     public void <init>(androidx.room.DatabaseConfiguration,androidx.room.RoomOpenHelper$Delegate,java.lang.String)
 com.google.android.gms.common.api.internal.zaca:
@@ -2014,7 +1985,6 @@ com.google.android.gms.internal.ads.zzftr:
     synthetic bridge java.util.Collection zza()
 androidx.work.impl.model.WorkTagDao:
     public abstract java.util.List getWorkSpecIdsWithTag(java.lang.String)
-com.abc.evpnfree.R$styleable
 okhttp3.Credentials
 kotlin.jvm.functions.Function1
 com.afollestad.materialdialogs.internal.MDRootLayout:
@@ -2284,13 +2254,6 @@ androidx.core.internal.view.SupportMenu:
     public static final int CATEGORY_SHIFT
     public static final int SUPPORTED_MODIFIERS_MASK
     public static final int FLAG_KEEP_OPEN_ON_SUBMENU_OPENED
-com.abc.evpnfree.BuildConfig:
-    public void <init>()
-    public static final java.lang.String APPLICATION_ID
-    public static final java.lang.String BUILD_TYPE
-    public static final java.lang.String FLAVOR
-    public static final int VERSION_CODE
-    public static final java.lang.String VERSION_NAME
 androidx.constraintlayout.motion.widget.MotionController:
     private void readView(androidx.constraintlayout.motion.widget.MotionPaths)
     private static android.view.animation.Interpolator getInterpolator(android.content.Context,int,java.lang.String,int)
@@ -2966,6 +2929,7 @@ androidx.core.view.NestedScrollingParentHelper:
 androidx.room.paging.LimitOffsetDataSource$1
 androidx.core.view.accessibility.AccessibilityWindowInfoCompat
 androidx.viewpager2.widget.ViewPager2$LinearLayoutManagerImpl
+com.oajstudios.evpn.R$color
 androidx.appcompat.widget.PopupMenu
 com.google.android.gms.common.internal.zal:
     public void <init>()
@@ -3909,6 +3873,22 @@ com.google.android.material.timepicker.TimePickerTextInputKeyController
 androidx.constraintlayout.core.state.Transition$KeyPosition
 androidx.core.view.WindowInsetsAnimationCompat$Callback$DispatchMode
 androidx.gridlayout.R$attr
+com.oajstudios.evpn.util.ConnectionQuality:
+    public void <init>()
+    public static java.lang.String getPointIcon(int)
+    public static java.lang.String getSimplePointIcon(int)
+    private static final java.lang.String CONNECT_BAD
+    private static final java.lang.String CONNECT_GOOD
+    private static final java.lang.String CONNECT_EXCELLENT
+    private static final java.lang.String CONNECT_INACTIVE
+    private static final java.lang.String POINT_BAD
+    private static final java.lang.String POINT_GOOD
+    private static final java.lang.String POINT_EXCELLENT
+    private static final java.lang.String POINT_INACTIVE
+    private static final java.lang.String SIMPLE_POINT_BAD
+    private static final java.lang.String SIMPLE_POINT_GOOD
+    private static final java.lang.String SIMPLE_POINT_EXCELLENT
+    private static final java.lang.String SIMPLE_POINT_INACTIVE
 kotlin.NumbersKt__NumbersKt
 androidx.transition.R$attr
 androidx.core.provider.DocumentsContractCompat$DocumentsContractApi24Impl
@@ -4030,6 +4010,12 @@ org.achartengine.model.TimeSeries
 androidx.core.location.LocationRequestCompat$Quality
 androidx.recyclerview.R$style
 kotlin.jvm.internal.markers.KMutableIterator
+com.oajstudios.evpn.activity.FragmentWrapperActivity:
+    public static final java.lang.String REQUEST_ACTIVITY_CODE
+    public static final java.lang.String RUNTIME_MODE
+    public static final java.lang.String BOOSTER_CODE
+    public static final java.lang.String BATTERY_SAVER_CODE
+    public static final java.lang.String NOTIFICATIONS_CLEANER_CODE
 androidx.appcompat.app.AppCompatDelegateImpl$Api17Impl:
     private void <init>()
 androidx.emoji2.viewsintegration.R
@@ -4473,8 +4459,6 @@ androidx.core.view.MenuItemCompat:
     public static final int SHOW_AS_ACTION_WITH_TEXT
     public static final int SHOW_AS_ACTION_COLLAPSE_ACTION_VIEW
 kotlin.ULong$Companion
-com.abc.evpnfree.util.NetworkState:
-    public void <init>()
 androidx.transition.ChangeTransform$GhostListener
 com.google.android.material.appbar.AppBarLayout$CompressChildScrollEffect:
     private static final float COMPRESS_DISTANCE_FACTOR
@@ -4534,37 +4518,6 @@ com.google.android.gms.common.api.internal.GoogleApiManager:
     public final com.google.android.gms.tasks.Task zap(com.google.android.gms.common.api.GoogleApi)
     public final com.google.android.gms.tasks.Task zaq(com.google.android.gms.common.api.GoogleApi,com.google.android.gms.common.api.internal.RegisterListenerMethod,com.google.android.gms.common.api.internal.UnregisterListenerMethod,java.lang.Runnable)
     public final com.google.android.gms.tasks.Task zar(com.google.android.gms.common.api.GoogleApi,com.google.android.gms.common.api.internal.ListenerHolder$ListenerKey,int)
-com.abc.evpnfree.model.Server:
-    public void setHostName(java.lang.String)
-    public void setIp(java.lang.String)
-    public java.lang.String getScore()
-    public void setScore(java.lang.String)
-    public void setPing(java.lang.String)
-    public void setSpeed(java.lang.String)
-    public void setCountryLong(java.lang.String)
-    public void setCountryShort(java.lang.String)
-    public void setNumVpnSessions(java.lang.String)
-    public java.lang.String getUptime()
-    public void setUptime(java.lang.String)
-    public java.lang.String getTotalUsers()
-    public void setTotalUsers(java.lang.String)
-    public java.lang.String getTotalTraffic()
-    public void setTotalTraffic(java.lang.String)
-    public java.lang.String getLogType()
-    public void setLogType(java.lang.String)
-    public java.lang.String getOperator()
-    public void setOperator(java.lang.String)
-    public java.lang.String getMessage()
-    public void setMessage(java.lang.String)
-    public void setConfigData(java.lang.String)
-    public void setQuality(int)
-    public void setType(int)
-    public java.lang.String getRegionName()
-    public void setRegionName(java.lang.String)
-    public double getLat()
-    public void setLat(double)
-    public double getLon()
-    public void setLon(double)
 kotlin.reflect.KVisibility
 kotlin.coroutines.SafeContinuation$Companion
 kotlin.TuplesKt
@@ -4683,6 +4636,8 @@ com.onesignal.shortcutbadger.impl.AdwHomeBadger:
     public static final java.lang.String CLASSNAME
     public static final java.lang.String COUNT
 com.google.android.gms.internal.consent_sdk.zzb
+com.oajstudios.evpn.util.CountriesNames:
+    public void <init>()
 androidx.core.app.NotificationManagerCompat$SideChannelManager:
     private static final int MSG_QUEUE_TASK
     private static final int MSG_SERVICE_CONNECTED
@@ -4787,13 +4742,6 @@ com.google.android.material.appbar.AppBarLayout:
     static final int PENDING_ACTION_FORCE
     private static final int INVALID_SCROLL_RANGE
 kotlin.jvm.Throws
-com.abc.evpnfree.AppController:
-    public static synchronized com.abc.evpnfree.AppController getInstance()
-    public com.android.volley.RequestQueue getRequestQueue()
-    public void addToRequestQueue(com.android.volley.Request,java.lang.String)
-    public void addToRequestQueue(com.android.volley.Request)
-    public void cancelPendingRequests(java.lang.Object)
-    private com.android.volley.RequestQueue mRequestQueue
 com.google.android.material.timepicker.TimePickerTextInputPresenter$2
 kotlin.sequences.SequencesKt__SequencesKt$shuffled$1
 androidx.transition.ChangeTransform$Transforms
@@ -4845,6 +4793,21 @@ com.google.android.gms.ads.admanager.AdManagerAdView:
     final synthetic void zza(com.google.android.gms.ads.admanager.AdManagerAdRequest)
     public final boolean zzb(com.google.android.gms.ads.internal.client.zzbs)
 com.google.android.material.progressindicator.CircularIndeterminateAnimatorDelegate$4
+com.oajstudios.evpn.util.PropertiesService:
+    public void <init>()
+    public static boolean getShowRating()
+    public static void setShowRating(boolean)
+    public static boolean getShowNote()
+    public static void setShowNote(boolean)
+    private static final java.lang.String DOWNLOADED_DATA_KEY
+    private static final java.lang.String UPLOADED_DATA_KEY
+    private static final java.lang.String AUTOMATIC_SWITCHING
+    private static final java.lang.String COUNTRY_PRIORITY
+    private static final java.lang.String CONNECT_ON_START
+    private static final java.lang.String AUTOMATIC_SWITCHING_SECONDS
+    private static final java.lang.String SELECTED_COUNTRY
+    private static final java.lang.String SHOW_RATING
+    private static final java.lang.String SHOW_NOTE
 androidx.sqlite.db.framework.R
 org.intellij.lang.annotations.JdkConstants$TitledBorderJustification
 com.google.android.gms.tasks.zzq:
@@ -4918,8 +4881,6 @@ androidx.constraintlayout.core.widgets.Chain:
     public void <init>()
     private static final boolean DEBUG
     public static final boolean USE_CHAIN_OPTIMIZATION
-com.abc.evpnfree.App:
-    public static java.lang.String getResourceString(int)
 com.google.android.gms.common.api.internal.UnregisterListenerMethod:
     protected void <init>(com.google.android.gms.common.api.internal.ListenerHolder$ListenerKey)
     public com.google.android.gms.common.api.internal.ListenerHolder$ListenerKey getListenerKey()
@@ -4974,6 +4935,10 @@ com.google.android.material.transition.platform.TransitionUtils$CornerSizeBinary
 androidx.lifecycle.runtime.R$id:
     private void <init>()
 com.google.android.gms.internal.consent_sdk.zzaq
+com.oajstudios.evpn.util.NumberPickerPreference:
+    public static final int MAX_VALUE
+    public static final int MIN_VALUE
+    public static final boolean WRAP_SELECTOR_WHEEL
 androidx.recyclerview.widget.DiffUtil$Snake
 androidx.room.InvalidationTracker$WeakObserver
 okhttp3.Cache$1
@@ -5021,6 +4986,8 @@ androidx.swiperefreshlayout.widget.CircularProgressDrawable
 androidx.loader.content.ModernAsyncTask$Status
 androidx.appcompat.widget.ResourcesWrapper:
     public android.graphics.drawable.Drawable getDrawable(int)
+com.oajstudios.evpn.activity.WelcomeActivity:
+    private int getItem(int)
 com.google.android.gms.internal.ads.zzcfx:
     private void <init>()
 androidx.core.app.NotificationCompat$BadgeIconType
@@ -5155,14 +5122,15 @@ com.onesignal.OSInAppMessagePage:
 androidx.constraintlayout.core.motion.utils.DifferentialInterpolator
 com.google.android.ump.ConsentInformation
 com.google.android.material.slider.BaseSlider$TooltipDrawableFactory
-com.abc.evpnfree.R$interpolator
 com.google.android.material.internal.ContextUtils:
     public void <init>()
 com.google.android.material.floatingactionbutton.FloatingActionButtonImplLollipop$AlwaysStatefulMaterialShapeDrawable
 com.google.android.gms.internal.measurement.zzlj
 com.google.android.material.bottomsheet.BottomSheetDialogFragment$BottomSheetDismissCallback
+com.oajstudios.evpn.R$bool
 com.onesignal.OneSignalRestClientWrapper$1
 kotlin.ranges.ULongRange
+com.oajstudios.evpn.util.io.pem.PemReader
 com.google.android.material.circularreveal.CircularRevealHelper$Strategy
 com.google.android.gms.internal.ads.zzbmr:
     public abstract android.os.IBinder zze(com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.dynamic.IObjectWrapper)
@@ -5172,6 +5140,7 @@ androidx.transition.GhostViewUtils
 com.google.android.gms.internal.consent_sdk.zzc
 com.onesignal.UserStateSMSSynchronizer:
     void logoutChannel()
+com.oajstudios.evpn.R$id
 androidx.constraintlayout.helper.widget.Carousel
 okhttp3.internal.http.Http2xStream:
     public void cancel()
@@ -5256,6 +5225,7 @@ androidx.appcompat.R$color:
     private void <init>()
 org.achartengine.model.MultipleCategorySeries
 androidx.lifecycle.MediatorLiveData$Source
+com.oajstudios.evpn.R$menu
 com.google.android.material.timepicker.TimePickerTextInputPresenter$3
 kotlin.ranges.IntProgressionIterator
 androidx.savedstate.Recreator:
@@ -5313,6 +5283,7 @@ com.google.android.gms.internal.ads.zzgna:
 com.google.android.gms.internal.ads.zzccz:
     public void <init>(com.google.android.gms.ads.rewarded.ServerSideVerificationOptions)
 com.google.android.gms.common.api.internal.zacm
+com.oajstudios.evpn.R$plurals
 com.google.android.material.badge.BadgeDrawable$SavedState
 com.google.android.material.transition.platform.Hold
 kotlin.collections.CharIterator
@@ -5469,7 +5440,6 @@ com.google.android.gms.internal.measurement.zzlq
 androidx.core.view.ContentInfoCompat$Compat:
     public abstract android.net.Uri getLinkUri()
     public abstract android.os.Bundle getExtras()
-com.abc.evpnfree.R$attr
 kotlin.jvm.functions.Function8
 androidx.recyclerview.widget.OrientationHelper$2:
     public void offsetChild(android.view.View,int)
@@ -5484,6 +5454,8 @@ com.onesignal.OSReceiveReceiptController:
     private static final java.lang.String OS_NOTIFICATION_ID
 androidx.annotation.InterpolatorRes
 androidx.core.provider.RequestExecutor$HandlerExecutor
+com.oajstudios.evpn.activity.VPNListActivity:
+    public static final java.lang.String EXTRA_COUNTRY
 androidx.appcompat.view.menu.MenuAdapter:
     public boolean getForceShowIcon()
 kotlin.collections.DoubleIterator
@@ -5529,6 +5501,9 @@ com.google.android.gms.common.api.internal.zabi:
     public final void zau()
     public final boolean zax()
     public final boolean zay(com.google.android.gms.common.api.internal.SignInConnectionListener)
+com.oajstudios.evpn.util.io.pem.PemWriter:
+    public int getOutputSize(com.oajstudios.evpn.util.io.pem.PemObject)
+    private static final int LINE_LENGTH
 com.google.android.gms.ads.search.DynamicHeightSearchAdRequest$Builder
 com.google.android.gms.internal.consent_sdk.zzq
 com.onesignal.shortcutbadger.impl.LGHomeBadger:
@@ -5582,7 +5557,6 @@ androidx.core.app.NotificationCompat$BigTextStyle:
     protected void restoreFromCompatExtras(android.os.Bundle)
     protected void clearCompatExtraKeys(android.os.Bundle)
     private static final java.lang.String TEMPLATE_CLASS_NAME
-com.abc.evpnfree.util.io.pem.PemReader
 com.google.android.material.transition.platform.SlideDistanceProvider$2
 androidx.core.app.ActivityCompat$PermissionCompatDelegate:
     public abstract boolean onActivityResult(android.app.Activity,int,int,android.content.Intent)
@@ -5695,6 +5669,7 @@ com.google.android.gms.measurement.api.AppMeasurementSdk$EventInterceptor
 kotlin.collections.ArraysKt___ArraysKt$withIndex$3
 kotlin.io.OnErrorAction
 org.achartengine.GraphicalActivity
+com.oajstudios.evpn.R$raw
 com.google.ads.AdRequest$Gender
 com.google.android.gms.common.api.zad
 com.onesignal.OneSignal$14
@@ -6244,8 +6219,6 @@ com.google.android.gms.ads.internal.client.zzed:
 androidx.core.text.ICUCompat:
     private void <init>()
     private static final java.lang.String TAG
-com.abc.evpnfree.service.BoostAlarm:
-    public static final java.lang.String PREFERENCES_RES_BOOSTER
 androidx.recyclerview.widget.AsyncListDiffer$MainThreadExecutor
 androidx.dynamicanimation.animation.DynamicAnimation$7
 androidx.core.os.UserHandleCompat
@@ -6465,6 +6438,7 @@ kotlin.collections.ArraysKt___ArraysKt$asIterable$$inlined$Iterable$9
 kotlin.reflect.KProperty1
 kotlin.sequences.SequencesKt___SequencesKt$elementAt$1
 com.google.android.gms.auth.api.signin.GoogleSignInOptionsExtension
+com.oajstudios.evpn.R$font
 androidx.core.app.SharedElementCallback$OnSharedElementsReadyListener
 com.google.android.gms.internal.consent_sdk.zzcc
 com.google.android.gms.ads.AdValue:
@@ -6588,12 +6562,6 @@ org.jetbrains.annotations.NonNls
 kotlin.text.FlagEnum
 androidx.core.content.SharedPreferencesCompat$EditorCompat$Helper
 com.google.android.material.snackbar.Snackbar$Callback
-com.abc.evpnfree.activity.VPNInfoActivity:
-    private android.widget.Button unblockCheck
-    private android.widget.ImageButton bookmark
-    private android.widget.TextView textView
-    private static final int START_VPN_PROFILE
-    public static final java.lang.String BROADCAST_ACTION
 androidx.room.DatabaseConfiguration:
     public void <init>(android.content.Context,java.lang.String,androidx.sqlite.db.SupportSQLiteOpenHelper$Factory,androidx.room.RoomDatabase$MigrationContainer,java.util.List,boolean,androidx.room.RoomDatabase$JournalMode,java.util.concurrent.Executor,boolean,java.util.Set)
     public void <init>(android.content.Context,java.lang.String,androidx.sqlite.db.SupportSQLiteOpenHelper$Factory,androidx.room.RoomDatabase$MigrationContainer,java.util.List,boolean,androidx.room.RoomDatabase$JournalMode,java.util.concurrent.Executor,java.util.concurrent.Executor,boolean,boolean,boolean,java.util.Set)
@@ -6628,6 +6596,13 @@ com.google.android.gms.common.GooglePlayServicesUtil:
     public static final java.lang.String GMS_ERROR_DIALOG
     public static final java.lang.String GOOGLE_PLAY_SERVICES_PACKAGE
     public static final java.lang.String GOOGLE_PLAY_STORE_PACKAGE
+com.oajstudios.evpn.util.TotalTraffic:
+    public void <init>()
+    public static final java.lang.String TRAFFIC_ACTION
+    public static final java.lang.String DOWNLOAD_ALL
+    public static final java.lang.String DOWNLOAD_SESSION
+    public static final java.lang.String UPLOAD_ALL
+    public static final java.lang.String UPLOAD_SESSION
 androidx.browser.customtabs.CustomTabsSession$PendingSession
 com.onesignal.ImmutableJSONObject:
     public long getLong(java.lang.String)
@@ -6924,6 +6899,7 @@ com.google.gson.internal.bind.TypeAdapters$27:
     private static final java.lang.String HOUR_OF_DAY
     private static final java.lang.String MINUTE
     private static final java.lang.String SECOND
+com.oajstudios.evpn.R$layout
 androidx.constraintlayout.motion.widget.MotionScene$1
 androidx.work.impl.model.WorkSpec$1:
     public java.util.List apply(java.util.List)
@@ -7074,7 +7050,6 @@ okhttp3.internal.http.HeaderParser:
     private void <init>()
 com.google.firebase.R$drawable
 androidx.recyclerview.widget.ItemTouchHelper$Callback$2
-com.abc.evpnfree.R
 androidx.work.impl.model.RawWorkInfoDao
 com.google.android.gms.internal.measurement.zzmq
 com.google.android.gms.ads.mediation.customevent.zzb:
@@ -7840,6 +7815,7 @@ com.google.android.gms.internal.consent_sdk.zzca
 kotlin.reflect.KMutableProperty2
 androidx.customview.R$attr
 kotlin.jvm.Strictfp
+com.oajstudios.evpn.R$drawable
 androidx.work.impl.WorkDatabaseMigrations:
     private void <init>()
     public static final int VERSION_1
@@ -8117,11 +8093,6 @@ com.google.firebase.components.Dependency:
     public static com.google.firebase.components.Dependency optionalProvider(java.lang.Class)
     public static com.google.firebase.components.Dependency requiredProvider(java.lang.Class)
     public static com.google.firebase.components.Dependency setOfProvider(java.lang.Class)
-com.abc.evpnfree.Constant:
-    public static final java.lang.String PrivacyPolicyUrl
-    public static final java.lang.String UpgradePro
-    private static final java.lang.String PREF_NAME
-    private static final java.lang.String IS_FIRST_TIME_LAUNCH
 androidx.multidex.MultiDexExtractor$ExtractedDex
 androidx.recyclerview.widget.ListUpdateCallback
 androidx.browser.customtabs.TrustedWebUtils
@@ -8394,12 +8365,6 @@ com.google.android.material.datepicker.MaterialTextInputPicker:
     private static final java.lang.String THEME_RES_ID_KEY
     private static final java.lang.String DATE_SELECTOR_KEY
     private static final java.lang.String CALENDAR_CONSTRAINTS_KEY
-com.abc.evpnfree.activity.FragmentWrapperActivity:
-    public static final java.lang.String REQUEST_ACTIVITY_CODE
-    public static final java.lang.String RUNTIME_MODE
-    public static final java.lang.String BOOSTER_CODE
-    public static final java.lang.String BATTERY_SAVER_CODE
-    public static final java.lang.String NOTIFICATIONS_CLEANER_CODE
 com.onesignal.OSOutcomeEventsController:
     private static final java.lang.String OS_SAVE_OUTCOMES
     private static final java.lang.String OS_SEND_SAVED_OUTCOMES
@@ -8475,7 +8440,6 @@ androidx.sqlite.db.framework.FrameworkSQLiteStatement:
     public java.lang.String simpleQueryForString()
 kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$2
 androidx.constraintlayout.motion.widget.KeyAttributes$Loader
-com.abc.evpnfree.R$integer
 kotlin.io.ByteStreamsKt
 com.google.android.gms.internal.measurement.zzmw
 kotlin.jvm.functions.Function14
@@ -8488,6 +8452,7 @@ androidx.transition.ViewOverlayApi14$OverlayViewGroup:
     protected android.view.ViewParent invalidateChildInParentFast(int,int,android.graphics.Rect)
 com.google.android.gms.internal.measurement.zzbw:
     private void <init>()
+com.oajstudios.evpn.R$integer
 com.google.android.material.dialog.MaterialDialogs
 com.google.android.material.progressindicator.BaseProgressIndicator$ShowAnimationBehavior
 androidx.documentfile.R
@@ -8551,7 +8516,6 @@ androidx.constraintlayout.core.parser.CLParser
 kotlin.ThrowsKt
 androidx.room.MultiInstanceInvalidationClient:
     void stop()
-com.abc.evpnfree.R$id
 kotlin.collections.AbstractList$IteratorImpl
 androidx.core.view.GestureDetectorCompat$GestureDetectorCompatImpl
 androidx.constraintlayout.motion.widget.DesignTool:
@@ -8849,6 +8813,41 @@ kotlin.text.Regex$fromInt$$inlined$apply$lambda$1
 androidx.asynclayoutinflater.view.AsyncLayoutInflater$OnInflateFinishedListener
 com.google.android.gms.security.zza
 com.onesignal.OneSignal$ExternalIdErrorType
+com.oajstudios.evpn.database.DBHelper:
+    public void setBookmark(com.oajstudios.evpn.model.Server)
+    public void delBookmark(com.oajstudios.evpn.model.Server)
+    public java.util.List getBookmarks()
+    public boolean checkBookmark(com.oajstudios.evpn.model.Server)
+    public long getCountBasic()
+    public long getCountAdditional()
+    public java.util.List getServersWithGPS()
+    private static final int DATABASE_VERSION
+    private static final java.lang.String DATABASE_NAME
+    private static final java.lang.String TABLE_SERVERS
+    private static final java.lang.String TABLE_BOOKMARK_SERVERS
+    private static final java.lang.String TAG
+    private static final java.lang.String KEY_ID
+    private static final java.lang.String KEY_HOST_NAME
+    private static final java.lang.String KEY_IP
+    private static final java.lang.String KEY_SCORE
+    private static final java.lang.String KEY_PING
+    private static final java.lang.String KEY_SPEED
+    private static final java.lang.String KEY_COUNTRY_LONG
+    private static final java.lang.String KEY_COUNTRY_SHORT
+    private static final java.lang.String KEY_NUM_VPN_SESSIONS
+    private static final java.lang.String KEY_UPTIME
+    private static final java.lang.String KEY_TOTAL_USERS
+    private static final java.lang.String KEY_TOTAL_TRAFFIC
+    private static final java.lang.String KEY_LOG_TYPE
+    private static final java.lang.String KEY_OPERATOR
+    private static final java.lang.String KEY_MESSAGE
+    private static final java.lang.String KEY_CONFIG_DATA
+    private static final java.lang.String KEY_TYPE
+    private static final java.lang.String KEY_QUALITY
+    private static final java.lang.String KEY_CITY
+    private static final java.lang.String KEY_REGION_NAME
+    private static final java.lang.String KEY_LAT
+    private static final java.lang.String KEY_LON
 androidx.emoji2.text.flatbuffer.FlexBuffers$TypedVector
 com.google.android.material.circularreveal.CircularRevealWidget$RevealInfo:
     public void <init>(com.google.android.material.circularreveal.CircularRevealWidget$RevealInfo)
@@ -9118,6 +9117,7 @@ androidx.constraintlayout.helper.widget.Carousel$1
 androidx.room.Dao
 androidx.constraintlayout.core.state.Transition
 androidx.dynamicanimation.animation.DynamicAnimation$8
+com.oajstudios.evpn.R$styleable
 androidx.constraintlayout.widget.SharedValues:
     public void addListener(int,androidx.constraintlayout.widget.SharedValues$SharedValuesListener)
     public void removeListener(int,androidx.constraintlayout.widget.SharedValues$SharedValuesListener)
@@ -9275,7 +9275,6 @@ androidx.constraintlayout.core.motion.utils.SplineSet$CustomSet
 com.google.android.material.transition.Hold
 com.google.android.material.bottomsheet.BottomSheetDialogFragment$1
 com.google.android.material.snackbar.BaseTransientBottomBar$17
-com.abc.evpnfree.R$animator
 androidx.fragment.R$integer
 androidx.appcompat.view.menu.MenuPopup:
     public androidx.appcompat.view.menu.MenuView getMenuView(android.view.ViewGroup)
@@ -9815,7 +9814,6 @@ androidx.core.view.ViewCompat$Api16Impl:
     private void <init>()
 kotlin.text.StringsKt___StringsKt$withIndex$1
 androidx.constraintlayout.core.motion.key.MotionKeyCycle
-com.abc.evpnfree.R$raw
 androidx.constraintlayout.core.motion.key.MotionKey
 kotlin.jvm.functions.Function5
 androidx.constraintlayout.core.parser.CLArray
@@ -9839,6 +9837,7 @@ androidx.core.os.MessageCompat
 com.google.android.material.tabs.TabLayout$TabView$1
 com.google.android.gms.ads.mediation.MediationBannerAdCallback
 com.google.android.gms.ads.nativead.NativeAdOptions$AdChoicesPlacement
+com.oajstudios.evpn.R$mipmap
 androidx.core.view.accessibility.AccessibilityEventCompat$ContentChangeType
 androidx.activity.result.contract.ActivityResultContracts
 at.grabner.circleprogress.BuildConfig
@@ -9855,6 +9854,13 @@ androidx.constraintlayout.core.motion.utils.KeyCycleOscillator$CycleOscillator:
     private static final java.lang.String TAG
 com.google.android.gms.internal.consent_sdk.zzbj
 androidx.browser.customtabs.CustomTabsService
+com.oajstudios.evpn.AppController:
+    public static synchronized com.oajstudios.evpn.AppController getInstance()
+    public com.android.volley.RequestQueue getRequestQueue()
+    public void addToRequestQueue(com.android.volley.Request,java.lang.String)
+    public void addToRequestQueue(com.android.volley.Request)
+    public void cancelPendingRequests(java.lang.Object)
+    private com.android.volley.RequestQueue mRequestQueue
 com.google.android.gms.internal.common.zze
 com.onesignal.OSInAppMessageDummyController:
     com.onesignal.OSInAppMessageInternal getCurrentDisplayedInAppMessage()
@@ -9862,6 +9868,12 @@ com.onesignal.OSInAppMessageDummyController:
     void removeTriggersForKeys(java.util.Collection)
     void setInAppMessagingEnabled(boolean)
     java.lang.Object getTriggerValue(java.lang.String)
+com.oajstudios.evpn.activity.MainActivity:
+    public static java.lang.String getDeviceName()
+    private static java.lang.String capitalize(java.lang.String)
+    private void startFragmentActivity(java.lang.String,java.lang.String)
+    android.content.Intent i
+    public static final java.lang.String EXTRA_COUNTRY
 com.google.android.gms.common.data.zae
 com.google.android.gms.internal.measurement.zzkw
 kotlin.contracts.ContractBuilderKt
@@ -10556,6 +10568,7 @@ com.onesignal.OSTaskRemoteController:
     static final java.lang.String SEND_OUTCOME
     static final java.lang.String SEND_UNIQUE_OUTCOME
     static final java.lang.String SEND_OUTCOME_WITH_VALUE
+com.oajstudios.evpn.R$anim
 android.support.v4.media.MediaBrowserCompat$MediaBrowserImplBase$6
 androidx.work.Operation:
     public abstract androidx.lifecycle.LiveData getState()
@@ -10819,9 +10832,6 @@ com.google.android.gms.internal.consent_sdk.zzcl
 okhttp3.internal.DiskLruCache$3
 kotlin.concurrent.TimersKt$timerTask$1
 kotlin.collections.ArraysKt___ArraysJvmKt$asList$6
-com.abc.evpnfree.util.io.pem.PemWriter:
-    public int getOutputSize(com.abc.evpnfree.util.io.pem.PemObject)
-    private static final int LINE_LENGTH
 kotlin.collections.SetsKt__SetsKt
 com.google.android.material.transition.platform.MaterialContainerTransformSharedElementCallback$ShapeableViewShapeProvider
 com.hookedonplay.decoviewlib.charts.SeriesItem$Builder:
@@ -10919,6 +10929,10 @@ androidx.gridlayout.widget.GridLayout$Spec
 androidx.emoji2.text.flatbuffer.FlatBufferBuilder$HeapByteBufferFactory
 com.google.android.gms.common.internal.ResourceUtils
 com.google.android.gms.common.images.ImageManager$OnImageLoadedListener
+com.oajstudios.evpn.Fragments.PhoneBooster_Fragment:
+    public void setUserVisibleHint(boolean)
+    private android.widget.LinearLayout tools
+    private android.widget.LinearLayout myPage
 androidx.core.graphics.drawable.RoundedBitmapDrawableFactory$DefaultRoundedBitmapDrawable
 com.onesignal.DraggableRelativeLayout:
     private boolean draggingDisabled
@@ -11038,6 +11052,7 @@ androidx.core.content.res.GrowingArrayUtils:
     public static boolean[] insert(boolean[],int,int,boolean)
     private void <init>()
 androidx.constraintlayout.core.motion.utils.Utils
+com.oajstudios.evpn.R
 androidx.dynamicanimation.animation.AnimationHandler$FrameCallbackProvider14
 androidx.work.impl.model.WorkSpecDao_Impl$12
 android.support.v4.media.MediaBrowserCompat$MediaBrowserImplBase$5
@@ -11580,7 +11595,7 @@ androidx.annotation.experimental.Experimental
 androidx.constraintlayout.core.parser.CLKey
 de.blinkt.openvpn.core.X509Utils:
     public void <init>()
-    public static com.abc.evpnfree.util.io.pem.PemObject readPemObjectFromFile(java.lang.String)
+    public static com.oajstudios.evpn.util.io.pem.PemObject readPemObjectFromFile(java.lang.String)
     public static java.lang.String getCertificateFriendlyName(android.content.Context,java.lang.String)
     public static java.lang.String getCertificateValidityString(java.security.cert.X509Certificate,android.content.res.Resources)
     public static int getMonthsDifference(java.util.Date,java.util.Date)
@@ -11704,6 +11719,7 @@ com.google.android.material.transition.platform.MaskEvaluator
 androidx.viewpager2.R$styleable
 kotlin.jvm.internal.Ref$FloatRef
 com.onesignal.OneSignal$33
+com.oajstudios.evpn.R$string
 androidx.viewpager2.adapter.FragmentStateAdapter:
     public void <init>(androidx.fragment.app.FragmentActivity)
     public void <init>(androidx.fragment.app.Fragment)
@@ -11970,6 +11986,13 @@ androidx.transition.Visibility:
 androidx.core.view.MenuHostHelper$LifecycleContainer
 kotlin.UninitializedPropertyAccessException
 androidx.constraintlayout.helper.widget.MotionPlaceholder
+com.oajstudios.evpn.util.encoders.Base64Encoder:
+    private boolean ignore(char)
+    private int nextI(byte[],int,int)
+    private int decodeLastBlock(java.io.OutputStream,char,char,char,char)
+    private int nextI(java.lang.String,int,int)
+    public int decode(byte[],int,int,java.io.OutputStream)
+    public int decode(java.lang.String,java.io.OutputStream)
 kotlin.sequences.SequencesKt___SequencesKt$sortedWith$1
 androidx.recyclerview.widget.RecyclerView$Orientation
 com.google.android.gms.internal.measurement.zzin
@@ -12193,10 +12216,6 @@ com.google.android.gms.common.api.PendingResult:
     public abstract void setResultCallback(com.google.android.gms.common.api.ResultCallback,long,java.util.concurrent.TimeUnit)
     public abstract boolean isCanceled()
 kotlin.text.ScreenFloatValueRegEx
-com.abc.evpnfree.Fragments.PhoneBooster_Fragment:
-    public void setUserVisibleHint(boolean)
-    private android.widget.LinearLayout tools
-    private android.widget.LinearLayout myPage
 androidx.multidex.MultiDex
 androidx.asynclayoutinflater.R$styleable
 com.google.android.gms.common.data.DataBufferRef
@@ -12230,6 +12249,7 @@ androidx.legacy.v4.R$string
 kotlin.collections.CollectionsKt:
     private void <init>()
 kotlin.reflect.KParameter$DefaultImpls
+com.oajstudios.evpn.util.io.pem.PemGenerationException
 androidx.core.content.ContentProviderCompat
 androidx.legacy.v4.R$layout
 kotlin.jvm.functions.Function21
@@ -12448,8 +12468,6 @@ com.google.android.material.imageview.ShapeableImageView
 com.google.firebase.components.Component$Builder:
     public com.google.firebase.components.Component$Builder eagerInDefaultApp()
     public com.google.firebase.components.Component$Builder publishes(java.lang.Class)
-com.abc.evpnfree.util.io.pem.PemHeader:
-    public void <init>(java.lang.String,java.lang.String)
 kotlin.sequences.SequencesKt__SequencesKt
 androidx.appcompat.view.ActionMode:
     public boolean isUiFocusable()
@@ -12887,13 +12905,6 @@ com.google.android.gms.common.GooglePlayServicesUtilLight:
     static final int GMS_GENERAL_ERROR_NOTIFICATION_ID
     static final int GMS_AVAILABILITY_NOTIFICATION_ID
 kotlin.sequences.SequencesKt___SequencesKt$onEach$1
-com.abc.evpnfree.util.TotalTraffic:
-    public void <init>()
-    public static final java.lang.String TRAFFIC_ACTION
-    public static final java.lang.String DOWNLOAD_ALL
-    public static final java.lang.String DOWNLOAD_SESSION
-    public static final java.lang.String UPLOAD_ALL
-    public static final java.lang.String UPLOAD_SESSION
 kotlin.collections.Grouping
 androidx.core.view.ViewCompat$Api26Impl:
     private void <init>()
@@ -13014,6 +13025,7 @@ com.google.android.gms.internal.ads.zzbhq:
 kotlin.collections.ReversedListReadOnly
 androidx.constraintlayout.core.state.helpers.BarrierReference$1
 kotlin.text.MatcherMatchResult$groups$1
+com.oajstudios.evpn.R$array
 kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt
 com.nineoldandroids.util.IntProperty
 com.google.android.gms.internal.ads.zzafq:
@@ -13398,7 +13410,6 @@ androidx.sqlite.db.SupportSQLiteOpenHelper$Configuration:
 androidx.core.app.NotificationChannelCompat
 androidx.media.VolumeProviderCompatApi21
 com.google.android.material.transition.FadeModeEvaluator
-com.abc.evpnfree.R$plurals
 com.google.android.gms.internal.consent_sdk.zzab
 androidx.media.MediaBrowserServiceCompat$ServiceCallbacks
 androidx.dynamicanimation.animation.DynamicAnimation$15
@@ -13578,13 +13589,6 @@ com.nineoldandroids.animation.Keyframe$FloatKeyframe:
     public void setValue(java.lang.Object)
 kotlin.collections.ArraysKt
 androidx.appcompat.widget.AppCompatAutoCompleteTextView$InspectionCompanion
-com.abc.evpnfree.util.encoders.Base64:
-    public void <init>()
-    public static int encode(byte[],java.io.OutputStream)
-    public static int encode(byte[],int,int,java.io.OutputStream)
-    public static byte[] decode(byte[])
-    public static byte[] decode(java.lang.String)
-    public static int decode(java.lang.String,java.io.OutputStream)
 com.google.android.material.slider.RangeSlider
 com.google.android.material.slider.BaseSlider$1
 kotlin.collections.ArraysKt___ArraysJvmKt$asList$7
@@ -13606,7 +13610,6 @@ androidx.emoji2.text.ConcurrencyHelpers:
 androidx.viewpager2.widget.CompositePageTransformer
 androidx.core.content.res.FontResourcesParserCompat$FetchStrategy
 com.google.android.gms.common.images.zad
-com.abc.evpnfree.R$bool
 androidx.emoji2.text.flatbuffer.MetadataItem:
     public static void ValidateVersion()
     public static androidx.emoji2.text.flatbuffer.MetadataItem getRootAsMetadataItem(java.nio.ByteBuffer)
@@ -14011,8 +14014,6 @@ com.google.android.gms.common.api.Status:
     public boolean isInterrupted()
 com.google.android.gms.common.api.zaf
 com.google.android.gms.common.server.response.FastJsonResponse$FieldConverter
-com.abc.evpnfree.activity.VPNListActivity:
-    public static final java.lang.String EXTRA_COUNTRY
 com.google.android.gms.ads.VersionInfo:
     public void <init>(int,int,int)
     public java.lang.String toString()
@@ -14040,6 +14041,11 @@ com.google.android.gms.internal.ads.zzfwf:
     public void clear()
     public boolean remove(java.lang.Object)
 androidx.work.R
+com.oajstudios.evpn.Constant:
+    public static final java.lang.String PrivacyPolicyUrl
+    public static final java.lang.String UpgradePro
+    private static final java.lang.String PREF_NAME
+    private static final java.lang.String IS_FIRST_TIME_LAUNCH
 com.onesignal.OSNotificationReceivedEvent:
     public org.json.JSONObject toJSONObject()
     private static final long PROCESS_NOTIFICATION_TIMEOUT
@@ -14418,6 +14424,13 @@ androidx.dynamicanimation.animation.DynamicAnimation$1
 androidx.constraintlayout.core.motion.utils.TimeCycleSplineSet$CustomSet
 net.grandcentrix.tray.R$string:
     private void <init>()
+com.oajstudios.evpn.BuildConfig:
+    public void <init>()
+    public static final java.lang.String APPLICATION_ID
+    public static final java.lang.String BUILD_TYPE
+    public static final java.lang.String FLAVOR
+    public static final int VERSION_CODE
+    public static final java.lang.String VERSION_NAME
 android.support.v4.media.session.MediaSessionCompat$3
 com.google.android.material.floatingactionbutton.FloatingActionButtonImplLollipop:
     void initializeBackgroundDrawable(android.content.res.ColorStateList,android.graphics.PorterDuff$Mode,android.content.res.ColorStateList,int)
@@ -15065,8 +15078,6 @@ kotlin.text.StringsKt___StringsKt:
     public static final java.lang.Iterable asIterable(java.lang.CharSequence)
     public static final kotlin.sequences.Sequence asSequence(java.lang.CharSequence)
     public void <init>()
-com.abc.evpnfree.activity.WelcomeActivity:
-    private int getItem(int)
 com.google.android.gms.ads.internal.client.zzdq:
     public final void zzq(java.lang.String)
     public final void zzr(java.lang.Class,android.os.Bundle)
@@ -15094,6 +15105,13 @@ okio.ForwardingSink:
     public final okio.Sink delegate()
 android.support.v4.media.session.MediaControllerCompat$TransportControlsApi23
 androidx.browser.trusted.TrustedWebActivityService$1
+com.oajstudios.evpn.util.encoders.Base64:
+    public void <init>()
+    public static int encode(byte[],java.io.OutputStream)
+    public static int encode(byte[],int,int,java.io.OutputStream)
+    public static byte[] decode(byte[])
+    public static byte[] decode(java.lang.String)
+    public static int decode(java.lang.String,java.io.OutputStream)
 com.google.android.gms.auth.api.signin.zad
 androidx.room.IMultiInstanceInvalidationCallback$Stub$Proxy:
     public java.lang.String getInterfaceDescriptor()
@@ -15119,6 +15137,8 @@ androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView:
 androidx.media.MediaBrowserServiceCompat$MediaBrowserServiceImplApi21$2
 com.google.firebase.R$bool
 androidx.transition.ChangeScroll
+com.oajstudios.evpn.service.BoostAlarm:
+    public static final java.lang.String PREFERENCES_RES_BOOSTER
 androidx.appcompat.widget.ActionMenuView$LayoutParams:
     void <init>(int,int,boolean)
 androidx.annotation.DisplayContext
@@ -15696,7 +15716,6 @@ com.google.android.gms.common.internal.ClientSettings:
 androidx.recyclerview.widget.ConcatAdapter
 com.google.android.gms.internal.ads.zzbyn
 com.skyfishjy.library.R$color
-com.abc.evpnfree.R$dimen
 android.support.v4.media.MediaBrowserCompatApi23$ItemCallbackProxy
 androidx.constraintlayout.motion.widget.MotionScene$Transition$TransitionOnClick
 androidx.browser.trusted.PackageIdentityUtils$Api28Implementation
@@ -15706,6 +15725,9 @@ androidx.appcompat.widget.VectorEnabledTintResources:
 androidx.viewpager2.R$dimen
 kotlin.jvm.internal.markers.KMutableSet
 androidx.core.app.NotificationChannelGroupCompat$Builder
+com.oajstudios.evpn.util.encoders.Encoder:
+    public abstract int decode(byte[],int,int,java.io.OutputStream)
+    public abstract int decode(java.lang.String,java.io.OutputStream)
 com.google.android.gms.common.internal.IAccountAccessor$Stub:
     public void <init>()
     protected final boolean zza(int,android.os.Parcel,android.os.Parcel,int)
@@ -15758,7 +15780,6 @@ com.google.android.gms.internal.ads.zzakk:
 androidx.room.SkipQueryVerification
 android.support.v4.media.MediaBrowserCompat$MediaBrowserImplApi21$2
 kotlin.concurrent.LocksKt
-com.abc.evpnfree.R$color
 com.hookedonplay.decoviewlib.charts.ColorAnimate:
     public static final int ANIMATE_ALPHA
     public static final int ANIMATE_RED
@@ -15836,12 +15857,6 @@ com.onesignal.shortcutbadger.impl.XiaomiHomeBadger:
     public static final java.lang.String EXTRA_UPDATE_APP_MSG_TEXT
 kotlin.collections.builders.MapBuilder$EntryRef
 androidx.viewpager2.adapter.FragmentStateAdapter$DataSetChangeObserver
-com.abc.evpnfree.activity.MainActivity:
-    public static java.lang.String getDeviceName()
-    private static java.lang.String capitalize(java.lang.String)
-    private void startFragmentActivity(java.lang.String,java.lang.String)
-    android.content.Intent i
-    public static final java.lang.String EXTRA_COUNTRY
 com.google.android.gms.internal.consent_sdk.zzao
 com.google.android.material.chip.ChipGroup:
     public boolean isSelectionRequired()
@@ -15879,9 +15894,7 @@ com.onesignal.BundleCompat:
     public abstract void putBoolean(java.lang.String,java.lang.Boolean)
     public abstract boolean getBoolean(java.lang.String)
     public abstract void setBundle(android.os.Parcelable)
-com.abc.evpnfree.SQLiteHandler
 com.google.android.gms.internal.common.zzn
-com.abc.evpnfree.R$menu
 androidx.work.impl.model.RawWorkInfoDao_Impl$1
 androidx.constraintlayout.widget.ConstraintHelper:
     private int[] convertReferenceString(android.view.View,java.lang.String)
@@ -15962,6 +15975,7 @@ com.onesignal.influence.OSInfluenceConstants:
     public static final java.lang.String PREFS_OS_UNATTRIBUTED_ENABLED
     public static final java.lang.String PREFS_OS_OUTCOMES_CURRENT_NOTIFICATION_INFLUENCE
     public static final java.lang.String PREFS_OS_OUTCOMES_CURRENT_IAM_INFLUENCE
+com.oajstudios.evpn.R$attr
 androidx.core.graphics.drawable.RoundedBitmapDrawableFactory
 com.android.volley.toolbox.ImageLoader$1
 com.google.android.material.transition.platform.MaterialFade
@@ -16206,6 +16220,37 @@ androidx.constraintlayout.motion.widget.Debug:
     public static void dumpLayoutParams(android.view.ViewGroup,java.lang.String)
     public static void dumpLayoutParams(android.view.ViewGroup$LayoutParams,java.lang.String)
 kotlin.UIntArray$Iterator
+com.oajstudios.evpn.model.Server:
+    public void setHostName(java.lang.String)
+    public void setIp(java.lang.String)
+    public java.lang.String getScore()
+    public void setScore(java.lang.String)
+    public void setPing(java.lang.String)
+    public void setSpeed(java.lang.String)
+    public void setCountryLong(java.lang.String)
+    public void setCountryShort(java.lang.String)
+    public void setNumVpnSessions(java.lang.String)
+    public java.lang.String getUptime()
+    public void setUptime(java.lang.String)
+    public java.lang.String getTotalUsers()
+    public void setTotalUsers(java.lang.String)
+    public java.lang.String getTotalTraffic()
+    public void setTotalTraffic(java.lang.String)
+    public java.lang.String getLogType()
+    public void setLogType(java.lang.String)
+    public java.lang.String getOperator()
+    public void setOperator(java.lang.String)
+    public java.lang.String getMessage()
+    public void setMessage(java.lang.String)
+    public void setConfigData(java.lang.String)
+    public void setQuality(int)
+    public void setType(int)
+    public java.lang.String getRegionName()
+    public void setRegionName(java.lang.String)
+    public double getLat()
+    public void setLat(double)
+    public double getLon()
+    public void setLon(double)
 androidx.constraintlayout.utils.widget.MotionButton
 com.google.android.gms.internal.ads.zzahe:
     public void <init>()
@@ -16350,13 +16395,6 @@ okhttp3.internal.framed.FrameWriter:
     public abstract void headers(int,java.util.List)
 androidx.fragment.app.BackStackState:
     private static final java.lang.String TAG
-com.abc.evpnfree.util.encoders.Base64Encoder:
-    private boolean ignore(char)
-    private int nextI(byte[],int,int)
-    private int decodeLastBlock(java.io.OutputStream,char,char,char,char)
-    private int nextI(java.lang.String,int,int)
-    public int decode(byte[],int,int,java.io.OutputStream)
-    public int decode(java.lang.String,java.io.OutputStream)
 androidx.emoji2.text.flatbuffer.BooleanVector
 com.google.android.material.progressindicator.LinearIndeterminateDisjointAnimatorDelegate$3
 com.google.android.material.progressindicator.DeterminateDrawable$1
@@ -16683,7 +16721,6 @@ androidx.browser.customtabs.PostMessageBackend
 kotlin.jvm.JvmRecord
 com.google.android.material.shape.MaterialShapeDrawable$CompatibilityShadowMode
 androidx.annotation.IntegerRes
-com.abc.evpnfree.R$array
 com.google.android.gms.internal.ads.zzbxm:
     public final void onFailure(com.google.android.gms.ads.AdError)
     public final void onFailure(java.lang.String)
@@ -16815,7 +16852,6 @@ androidx.constraintlayout.core.motion.utils.TypedBundle
 androidx.core.content.UnusedAppRestrictionsConstants
 com.google.android.gms.common.util.MurmurHash3:
     private void <init>()
-com.abc.evpnfree.R$layout
 com.google.android.material.textfield.TextInputLayout:
     public void setBoxCornerRadiiResources(int,int,int,int)
     public void setBoxCornerRadii(float,float,float,float)
@@ -17010,7 +17046,6 @@ kotlin.collections.CollectionsKt__IteratorsKt:
 androidx.sqlite.db.SupportSQLiteOpenHelper:
     public abstract androidx.sqlite.db.SupportSQLiteDatabase getReadableDatabase()
 com.google.android.gms.common.internal.Asserts
-com.abc.evpnfree.R$string
 androidx.annotation.RequiresPermission$Write
 com.onesignal.NotificationSummaryManager:
     void <init>()
@@ -17142,9 +17177,6 @@ androidx.versionedparcelable.VersionedParcel:
 com.google.android.gms.ads.mediation.NetworkExtras
 kotlin.KotlinNothingValueException
 kotlin.io.AccessDeniedException
-com.abc.evpnfree.util.Stopwatch:
-    public long getDiff()
-    public java.lang.String getElapsedTime()
 androidx.constraintlayout.core.motion.utils.KeyCycleOscillator:
     public static androidx.constraintlayout.core.motion.utils.KeyCycleOscillator makeWidgetCycle(java.lang.String)
     public float getSlope(float)
@@ -17198,6 +17230,9 @@ com.onesignal.LocationController:
     static final long FOREGROUND_UPDATE_TIME_MS
     static final long BACKGROUND_UPDATE_TIME_MS
 androidx.recyclerview.widget.AsyncListUtil$1
+com.oajstudios.evpn.util.io.pem.PemHeader:
+    public void <init>(java.lang.String,java.lang.String)
+com.oajstudios.evpn.R$animator
 com.google.android.gms.common.internal.service.zae
 kotlin.text.Regex$findAll$1
 com.google.android.gms.internal.ads.zzgsa:
@@ -17276,7 +17311,6 @@ okhttp3.RealCall:
     public void cancel()
     public synchronized boolean isExecuted()
     public boolean isCanceled()
-com.abc.evpnfree.R$mipmap
 androidx.versionedparcelable.ParcelUtils
 com.google.gson.JsonParser
 androidx.room.RoomTrackingLiveData
@@ -17518,6 +17552,7 @@ androidx.constraintlayout.core.motion.utils.TimeCycleSplineSet:
     protected static final int CURVE_VALUE
     protected static final int CURVE_PERIOD
     protected static final int CURVE_OFFSET
+com.oajstudios.evpn.R$interpolator
 okhttp3.Cache$Entry
 androidx.constraintlayout.core.PriorityGoalRow:
     private static final float epsilon
@@ -17878,21 +17913,6 @@ com.google.android.material.internal.ManufacturerUtils:
     private static final java.lang.String SAMSUNG
     private static final java.lang.String MEIZU
 androidx.multidex.BuildConfig
-com.abc.evpnfree.util.PropertiesService:
-    public void <init>()
-    public static boolean getShowRating()
-    public static void setShowRating(boolean)
-    public static boolean getShowNote()
-    public static void setShowNote(boolean)
-    private static final java.lang.String DOWNLOADED_DATA_KEY
-    private static final java.lang.String UPLOADED_DATA_KEY
-    private static final java.lang.String AUTOMATIC_SWITCHING
-    private static final java.lang.String COUNTRY_PRIORITY
-    private static final java.lang.String CONNECT_ON_START
-    private static final java.lang.String AUTOMATIC_SWITCHING_SECONDS
-    private static final java.lang.String SELECTED_COUNTRY
-    private static final java.lang.String SHOW_RATING
-    private static final java.lang.String SHOW_NOTE
 com.google.android.gms.internal.measurement.zzcj
 com.onesignal.OSSubscriptionStateChanges:
     public com.onesignal.OSSubscriptionState getTo()
@@ -17912,6 +17932,7 @@ androidx.cursoradapter.widget.CursorAdapter:
     protected android.widget.FilterQueryProvider mFilterQueryProvider
     public static final int FLAG_AUTO_REQUERY
     public static final int FLAG_REGISTER_CONTENT_OBSERVER
+com.oajstudios.evpn.R$style
 com.google.firebase.messaging.MessagingAnalytics:
     public void <init>()
 kotlin.jvm.PurelyImplements
@@ -17935,10 +17956,6 @@ androidx.appcompat.resources.Compatibility$Api21Impl:
 kotlin.jvm.JvmInline
 com.google.android.gms.internal.ads.zzgvc:
     private void <init>()
-com.abc.evpnfree.util.NumberPickerPreference:
-    public static final int MAX_VALUE
-    public static final int MIN_VALUE
-    public static final boolean WRAP_SELECTOR_WHEEL
 androidx.work.PeriodicWorkRequest$Builder
 com.google.android.material.internal.ViewOverlayApi14$OverlayViewGroup
 androidx.core.provider.DocumentsContractCompat$DocumentsContractApi19Impl
@@ -18040,6 +18057,9 @@ com.google.android.gms.appset.AppSet:
 org.intellij.lang.annotations.Subst
 androidx.recyclerview.widget.TileList
 kotlin.text.Regex$Companion
+com.oajstudios.evpn.util.Stopwatch:
+    public long getDiff()
+    public java.lang.String getElapsedTime()
 androidx.core.location.LocationListenerCompat
 androidx.core.widget.TintableCompoundButton:
     public abstract android.graphics.PorterDuff$Mode getSupportButtonTintMode()
@@ -18079,7 +18099,6 @@ com.onesignal.OSPermissionStateChanges:
     public com.onesignal.OSPermissionState getTo()
     public com.onesignal.OSPermissionState getFrom()
 com.google.android.gms.internal.common.zzj
-com.abc.evpnfree.util.io.pem.PemGenerationException
 androidx.core.provider.DocumentsContractCompat
 com.google.gson.internal.LinkedHashTreeMap$AvlBuilder
 com.google.android.gms.internal.measurement.zzka
@@ -18279,7 +18298,6 @@ androidx.emoji2.viewsintegration.EmojiTextViewHelper$HelperInternal:
     void updateTransformationMethod()
     android.text.method.TransformationMethod wrapTransformationMethod(android.text.method.TransformationMethod)
     public boolean isEnabled()
-com.abc.evpnfree.R$font
 androidx.recyclerview.widget.DiffUtil$Range
 com.google.android.gms.internal.ads.zzgvd:
     private void <init>()
@@ -18532,8 +18550,6 @@ androidx.media.MediaBrowserCompatUtils
 kotlin.coroutines.CoroutineContext$Key
 com.google.android.gms.internal.ads.zzbmj:
     public final android.os.IBinder zze(com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.dynamic.IObjectWrapper,int)
-com.abc.evpnfree.activity.SplashActivity$3:
-    public void onError(com.androidnetworking.error.ANError)
 com.google.android.gms.common.util.HttpUtils
 androidx.recyclerview.widget.ItemTouchHelper$2
 com.google.android.material.textfield.IndicatorViewController:
@@ -18722,6 +18738,8 @@ com.google.android.ump.ConsentRequestParameters
 androidx.swiperefreshlayout.R$styleable
 androidx.appcompat.widget.ShareActionProvider
 com.google.android.gms.internal.consent_sdk.zzai
+com.oajstudios.evpn.App:
+    public static java.lang.String getResourceString(int)
 androidx.core.app.NotificationCompat$Action$Builder
 com.google.android.material.floatingactionbutton.MotionStrategy:
     public abstract com.google.android.material.animation.MotionSpec getCurrentMotionSpec()
@@ -18750,8 +18768,6 @@ okhttp3.CertificatePinner$Pin:
 com.google.android.gms.internal.ads.zzbxj:
     public final synthetic bridge java.lang.Object onSuccess(java.lang.Object)
     public final void onFailure(java.lang.String)
-com.abc.evpnfree.util.CountriesNames:
-    public void <init>()
 androidx.legacy.coreui.R$dimen
 androidx.core.location.LocationCompat
 com.google.android.gms.common.server.FavaDiagnosticsEntity
@@ -18759,7 +18775,6 @@ androidx.core.app.ShareCompat$IntentBuilder
 androidx.fragment.app.FragmentManagerNonConfig
 androidx.constraintlayout.core.parser.CLToken$Type
 com.google.android.material.timepicker.TimePickerControls$ActiveSelection
-com.abc.evpnfree.R$drawable
 androidx.appcompat.app.ActionBar:
     public abstract void setCustomView(android.view.View)
     public abstract void setCustomView(android.view.View,androidx.appcompat.app.ActionBar$LayoutParams)
@@ -18970,22 +18985,6 @@ com.google.firebase.FirebaseOptions:
 com.google.android.gms.internal.ads.zzfga:
     public abstract int hashCode()
     public abstract boolean equals(java.lang.Object)
-com.abc.evpnfree.util.ConnectionQuality:
-    public void <init>()
-    public static java.lang.String getPointIcon(int)
-    public static java.lang.String getSimplePointIcon(int)
-    private static final java.lang.String CONNECT_BAD
-    private static final java.lang.String CONNECT_GOOD
-    private static final java.lang.String CONNECT_EXCELLENT
-    private static final java.lang.String CONNECT_INACTIVE
-    private static final java.lang.String POINT_BAD
-    private static final java.lang.String POINT_GOOD
-    private static final java.lang.String POINT_EXCELLENT
-    private static final java.lang.String POINT_INACTIVE
-    private static final java.lang.String SIMPLE_POINT_BAD
-    private static final java.lang.String SIMPLE_POINT_GOOD
-    private static final java.lang.String SIMPLE_POINT_EXCELLENT
-    private static final java.lang.String SIMPLE_POINT_INACTIVE
 androidx.transition.Styleable$Slide
 kotlin.io.FileTreeWalk$FileTreeWalkIterator$BottomUpDirectoryState
 com.android.volley.toolbox.ImageLoader$2
@@ -19204,6 +19203,7 @@ androidx.media.AudioAttributesCompat$AttributeUsage
 androidx.recyclerview.widget.ItemTouchHelper$1
 androidx.legacy.coreutils.R$layout
 com.google.android.gms.common.zzd
+com.oajstudios.evpn.R$xml
 androidx.constraintlayout.core.widgets.Barrier:
     public void <init>(java.lang.String)
     public boolean allowsGoneWidget()
@@ -19267,6 +19267,7 @@ okio.BufferedSink:
     public abstract okio.BufferedSink writeLongLe(long)
     public abstract java.io.OutputStream outputStream()
 kotlin.comparisons.ComparisonsKt__ComparisonsKt
+com.oajstudios.evpn.SQLiteHandler
 android.support.v4.media.session.MediaSessionCompat$Callback$StubApi24
 com.google.android.gms.internal.measurement.zzlb
 com.google.android.gms.ads.h5.OnH5AdsEventListener
@@ -19388,7 +19389,6 @@ androidx.core.view.WindowInsetsCompat:
 com.android.volley.toolbox.HttpHeaderParser
 androidx.work.impl.constraints.WorkConstraintsTracker:
     void <init>(androidx.work.impl.constraints.WorkConstraintsCallback,androidx.work.impl.constraints.controllers.ConstraintController[])
-com.abc.evpnfree.R$style
 android.support.v4.media.session.MediaControllerCompat
 kotlin.sequences.TransformingSequence$iterator$1
 androidx.appcompat.widget.AppCompatRatingBar:
@@ -19956,16 +19956,6 @@ com.google.android.gms.internal.ads.zzgbz:
     public static final java.nio.charset.Charset zza
 com.google.android.gms.internal.ads.zzfvz:
     final synthetic com.google.android.gms.internal.ads.zzfwa zza
-com.abc.evpnfree.activity.SplashActivity:
-    private final int LOAD_ERROR
-    private final int DOWNLOAD_PROGRESS
-    private final int PARSE_PROGRESS
-    private final int LOADING_SUCCESS
-    private final int SWITCH_TO_RESULT
-    private final java.lang.String BASE_URL
-    private final java.lang.String BASE_FILE_NAME
-    private boolean premiumStage
-    private com.abc.evpnfree.util.Stopwatch stopwatch
 com.google.android.gms.internal.ads.zzatq:
     final synthetic com.google.android.gms.internal.ads.zzats zzb
 com.google.android.gms.internal.ads.zznb:
@@ -19988,6 +19978,10 @@ com.google.android.gms.internal.ads.zzfjw:
     private final com.google.android.gms.internal.ads.zzeep zzi
 com.google.android.material.card.MaterialCardView$OnCheckedChangeListener:
     public abstract void onCheckedChanged(com.google.android.material.card.MaterialCardView,boolean)
+com.oajstudios.evpn.activity.VPNInfoActivity:
+    private java.lang.String TAG
+    double speedValue
+    private static com.oajstudios.evpn.util.Stopwatch stopwatch
 com.google.android.gms.internal.ads.zzdyl:
     private final com.google.android.gms.internal.ads.zzdyd zza
     private final com.google.android.gms.internal.ads.zzgxv zzc
@@ -20286,6 +20280,8 @@ com.google.android.gms.internal.firebase_messaging.zzj:
     private static final java.io.OutputStream zzg
 androidx.core.text.PrecomputedTextCompat$Params:
     final android.text.PrecomputedText$Params mWrapped
+com.oajstudios.evpn.activity.FragmentWrapperActivity:
+    public static boolean notWaitJustRedirect
 com.google.android.gms.internal.measurement.zzbo:
     private static final java.lang.ClassLoader zza
 androidx.transition.FragmentTransitionSupport$4:
@@ -20389,18 +20385,12 @@ com.google.android.gms.internal.ads.zzcoq:
     private final com.google.android.gms.internal.ads.zzcop zza
 com.google.android.material.appbar.AppBarLayout:
     private static final int DEF_STYLE_RES
-com.abc.evpnfree.AppController:
-    public static final java.lang.String TAG
-    private static com.abc.evpnfree.AppController mInstance
 androidx.constraintlayout.core.motion.utils.Easing:
     public static androidx.constraintlayout.core.motion.utils.Easing getInterpolator(java.lang.String)
 com.google.android.gms.internal.ads.zzash:
     public static final java.util.UUID zzc
     public static final java.util.UUID zzd
     public static final java.util.UUID zze
-com.abc.evpnfree.dns.PingTest:
-    java.util.HashMap result
-    boolean started
 com.google.android.gms.internal.ads.zzdyh:
     private final com.google.android.gms.internal.ads.zzdyd zza
     private final com.google.android.gms.internal.ads.zzgxv zzc
@@ -20473,8 +20463,6 @@ com.google.android.gms.internal.ads.zzcqa:
 com.nineoldandroids.animation.Keyframe:
     java.lang.Class mValueType
     boolean mHasValue
-com.abc.evpnfree.App$1:
-    final synthetic com.abc.evpnfree.App this$0
 com.google.android.gms.internal.ads.zzgca:
     public static final com.google.android.gms.internal.ads.zzgng zzd
     public static final com.google.android.gms.internal.ads.zzgng zze
@@ -20510,6 +20498,8 @@ androidx.constraintlayout.motion.widget.MotionLayout$StateCache:
     final java.lang.String KeyVelocity
     final java.lang.String KeyStartState
     final java.lang.String KeyEndState
+com.oajstudios.evpn.activity.VPNListActivity:
+    private com.oajstudios.evpn.model.Server currentServer
 com.google.android.gms.internal.ads.zzdbq:
     private final com.google.android.gms.internal.ads.zzdbc zza
 com.google.android.gms.ads.mediation.customevent.zzc:
@@ -20519,6 +20509,8 @@ com.google.android.gms.common.api.internal.zabi:
     private com.google.android.gms.common.ConnectionResult zao
 com.google.android.gms.internal.base.zac:
     private static final java.lang.ClassLoader zaa
+com.oajstudios.evpn.util.io.pem.PemWriter:
+    private final int nlLength
 com.google.android.gms.internal.ads.zzcvq:
     private final com.google.android.gms.internal.ads.zzgxv zzb
 com.google.android.gms.internal.ads.zzaf:
@@ -20669,10 +20661,6 @@ com.google.android.gms.internal.ads.zzdlp:
     private final com.google.android.gms.internal.ads.zzdlk zza
 com.google.android.gms.internal.ads.zzdap:
     private final com.google.android.gms.internal.ads.zzdaj zza
-com.abc.evpnfree.activity.VPNInfoActivity:
-    private java.lang.String TAG
-    double speedValue
-    private static com.abc.evpnfree.util.Stopwatch stopwatch
 androidx.room.DatabaseConfiguration:
     public final java.lang.String copyFromAssetPath
     public final java.io.File copyFromFile
@@ -20745,6 +20733,16 @@ com.google.gson.Gson:
     final java.util.List builderHierarchyFactories
 androidx.fragment.app.DefaultSpecialEffectsController$3:
     final synthetic androidx.fragment.app.DefaultSpecialEffectsController this$0
+com.oajstudios.evpn.activity.SplashActivity:
+    private final int LOAD_ERROR
+    private final int DOWNLOAD_PROGRESS
+    private final int PARSE_PROGRESS
+    private final int LOADING_SUCCESS
+    private final int SWITCH_TO_RESULT
+    private final java.lang.String BASE_URL
+    private final java.lang.String BASE_FILE_NAME
+    private boolean premiumStage
+    private com.oajstudios.evpn.util.Stopwatch stopwatch
 androidx.vectordrawable.graphics.drawable.VectorDrawableCompat:
     private android.graphics.drawable.Drawable$ConstantState mCachedConstantStateDelegate
 com.google.android.gms.internal.ads.zzru:
@@ -20993,8 +20991,6 @@ androidx.transition.ChangeBounds$8:
     final synthetic androidx.transition.ChangeBounds this$0
 com.google.android.gms.internal.ads.zzcxr:
     private final com.google.android.gms.internal.ads.zzcxj zza
-com.abc.evpnfree.activity.FragmentWrapperActivity:
-    public static boolean notWaitJustRedirect
 com.google.android.gms.internal.ads.zzafi:
     public final synthetic com.google.android.gms.internal.ads.zzafl zza
 androidx.constraintlayout.widget.ConstraintLayout:
@@ -21181,6 +21177,9 @@ androidx.constraintlayout.core.motion.utils.KeyCycleOscillator$CycleOscillator:
     double[] mSplineValueCache
     double[] mSplineSlopeCache
     float mPathLength
+com.oajstudios.evpn.AppController:
+    public static final java.lang.String TAG
+    private static com.oajstudios.evpn.AppController mInstance
 com.onesignal.GooglePlayServicesUpgradePrompt$1$2:
     final synthetic com.onesignal.GooglePlayServicesUpgradePrompt$1 this$0
 androidx.appcompat.app.AlertController$2:
@@ -21289,6 +21288,9 @@ androidx.work.impl.model.WorkNameDao_Impl$1:
     final synthetic androidx.work.impl.model.WorkNameDao_Impl this$0
 com.google.android.gms.internal.ads.zzesb:
     public final synthetic com.google.android.gms.internal.ads.zzesc zza
+com.oajstudios.evpn.dns.PingTest:
+    java.util.HashMap result
+    boolean started
 com.google.android.gms.internal.ads.zzha:
     public static final com.google.android.gms.internal.ads.zzn zzd
 com.google.gson.internal.LinkedTreeMap$KeySet$1:
@@ -21314,8 +21316,6 @@ com.google.android.gms.internal.ads.zzdvr:
     private final com.google.android.gms.internal.ads.zzgxv zza
 com.google.android.gms.internal.ads.zzvj:
     final synthetic com.google.android.gms.internal.ads.zzvr zza
-com.abc.evpnfree.util.io.pem.PemWriter:
-    private final int nlLength
 com.google.android.gms.internal.ads.zzdwu:
     private final com.google.android.gms.internal.ads.zzgxv zzc
 com.google.android.gms.internal.ads.zzgqr:
@@ -21335,6 +21335,8 @@ com.google.android.gms.internal.ads.zzgru:
 com.google.android.gms.auth.api.signin.GoogleSignInAccount:
     public static com.google.android.gms.common.util.Clock zaa
 androidx.constraintlayout.motion.utils.ViewTimeCycle$AlphaSet
+com.oajstudios.evpn.Fragments.PhoneBooster_Fragment:
+    int mb
 com.google.android.material.transformation.FabTransformationBehavior$3:
     final synthetic com.google.android.material.transformation.FabTransformationBehavior this$0
 com.google.android.gms.internal.ads.zzmq:
@@ -21495,8 +21497,6 @@ com.google.android.gms.common.api.PendingResult:
     public abstract void addStatusListener(com.google.android.gms.common.api.PendingResult$StatusListener)
 androidx.core.provider.CallbackWithHandler$2:
     final synthetic androidx.core.provider.CallbackWithHandler this$0
-com.abc.evpnfree.Fragments.PhoneBooster_Fragment:
-    int mb
 com.google.android.gms.internal.ads.zzblb:
     public static final com.google.android.gms.internal.ads.zzbke zza
     public static final com.google.android.gms.internal.ads.zzbke zzc
@@ -21623,6 +21623,8 @@ com.google.android.gms.internal.ads.zzbkz:
 com.google.android.gms.common.GooglePlayServicesUtilLight:
     private static boolean zzb
     static boolean zza
+com.oajstudios.evpn.App$1:
+    final synthetic com.oajstudios.evpn.App this$0
 com.google.android.gms.internal.ads.zzgog:
     public static final com.google.android.gms.internal.ads.zzgog zzc
     public static final com.google.android.gms.internal.ads.zzgog zzd
@@ -21815,8 +21817,6 @@ com.google.android.gms.common.api.Status:
     public static final com.google.android.gms.common.api.Status RESULT_INTERRUPTED
     public static final com.google.android.gms.common.api.Status RESULT_DEAD_CLIENT
     public static final com.google.android.gms.common.api.Status zza
-com.abc.evpnfree.activity.VPNListActivity:
-    private com.abc.evpnfree.model.Server currentServer
 com.google.android.gms.ads.VersionInfo:
     public int getMicroVersion()
     public int getMinorVersion()
@@ -22258,9 +22258,6 @@ com.google.android.gms.internal.ads.zzcva:
 androidx.constraintlayout.motion.utils.ViewOscillator$ScaleXset
 com.google.android.gms.internal.ads.zzbw:
     public static final com.google.android.gms.internal.ads.zzn zza
-com.abc.evpnfree.util.Stopwatch:
-    private java.util.Calendar calendar
-    private long startTime
 androidx.constraintlayout.core.motion.utils.KeyCycleOscillator:
     public boolean variesByPath()
     public void setType(java.lang.String)
@@ -22389,6 +22386,9 @@ com.google.android.gms.common.internal.GmsClient:
     private static volatile java.util.concurrent.Executor zaa
 com.google.gson.internal.ConstructorConstructor$11:
     final synthetic com.google.gson.internal.ConstructorConstructor this$0
+com.oajstudios.evpn.util.Stopwatch:
+    private java.util.Calendar calendar
+    private long startTime
 com.google.android.gms.internal.ads.zzexv:
     private final com.google.android.gms.internal.ads.zzgxv zzd
     private final com.google.android.gms.internal.ads.zzgxv zze

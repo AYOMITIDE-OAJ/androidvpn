@@ -10,7 +10,7 @@ import android.content.pm.Signature;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import com.abc.evpnfree.R;
+import com.oajstudios.evpn.R;
 
 import java.io.ByteArrayInputStream;
 import java.io.UnsupportedEncodingException;

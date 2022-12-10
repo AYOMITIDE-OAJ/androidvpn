@@ -26,30 +26,6 @@
 -keep class androidx.work.impl.foreground.SystemForegroundService { <init>(); }
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:317
 -keep class androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:77
--keep class com.abc.evpnfree.AppController { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:130
--keep class com.abc.evpnfree.activity.FragmentWrapperActivity { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:93
--keep class com.abc.evpnfree.activity.MainActivity { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:101
--keep class com.abc.evpnfree.activity.SettingsActivity { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:115
--keep class com.abc.evpnfree.activity.SpeedTestActivity { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:89
--keep class com.abc.evpnfree.activity.SplashActivity { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:126
--keep class com.abc.evpnfree.activity.StepActivity { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:118
--keep class com.abc.evpnfree.activity.TOSActivity { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:98
--keep class com.abc.evpnfree.activity.VPNInfoActivity { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:97
--keep class com.abc.evpnfree.activity.VPNListActivity { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:131
--keep class com.abc.evpnfree.activity.WelcomeActivity { <init>(); }
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:149
--keep class com.abc.evpnfree.service.BoostAlarm { <init>(); }
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:121
 -keep class com.google.android.gms.ads.AdActivity { <init>(); }
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:248
@@ -66,6 +42,30 @@
 -keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:392
 -keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:77
+-keep class com.oajstudios.evpn.AppController { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:130
+-keep class com.oajstudios.evpn.activity.FragmentWrapperActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:93
+-keep class com.oajstudios.evpn.activity.MainActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:101
+-keep class com.oajstudios.evpn.activity.SettingsActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:115
+-keep class com.oajstudios.evpn.activity.SpeedTestActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:89
+-keep class com.oajstudios.evpn.activity.SplashActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:126
+-keep class com.oajstudios.evpn.activity.StepActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:118
+-keep class com.oajstudios.evpn.activity.TOSActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:98
+-keep class com.oajstudios.evpn.activity.VPNInfoActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:97
+-keep class com.oajstudios.evpn.activity.VPNListActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:131
+-keep class com.oajstudios.evpn.activity.WelcomeActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:149
+-keep class com.oajstudios.evpn.service.BoostAlarm { <init>(); }
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:207
 -keep class com.onesignal.BootUpReceiver { <init>(); }
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:152
@@ -232,17 +232,6 @@
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_vpninfo.xml:139
 -keep class at.grabner.circleprogress.CircleProgressView { <init>(...); }
 
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_main.xml:109
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_speedtest.xml:101
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\phone_booster.xml:26
--keep class com.abc.evpnfree.CustomTxTRegular { <init>(...); }
-
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\phone_booster.xml:286
--keep class com.abc.evpnfree.CustomTxtSemibold { <init>(...); }
-
-# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\xml\preferences.xml:10
--keep class com.abc.evpnfree.util.NumberPickerPreference { <init>(...); }
-
 # Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_stub_actionbuttons.xml:5
 -keep class com.afollestad.materialdialogs.internal.MDButton { <init>(...); }
 
@@ -358,6 +347,17 @@
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_speedtest.xml:76
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\phone_booster.xml:85
 -keep class com.hookedonplay.decoviewlib.DecoView { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_main.xml:109
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_speedtest.xml:101
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\phone_booster.xml:26
+-keep class com.oajstudios.evpn.CustomTxTRegular { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\phone_booster.xml:286
+-keep class com.oajstudios.evpn.CustomTxtSemibold { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\xml\preferences.xml:10
+-keep class com.oajstudios.evpn.util.NumberPickerPreference { <init>(...); }
 
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_vpnlist.xml:51
 # Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\home_vpn_row.xml:37

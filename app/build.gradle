@@ -13,7 +13,7 @@ android {
     buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId "com.abc.evpnfree"
+        applicationId "com.oajstudios.evpn"
         minSdkVersion 19
         targetSdkVersion 31
         versionCode 34

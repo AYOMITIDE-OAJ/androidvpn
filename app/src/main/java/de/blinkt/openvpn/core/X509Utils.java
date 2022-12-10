@@ -7,11 +7,11 @@ import android.content.res.Resources;
 import android.text.TextUtils;
 
 
-import com.abc.evpnfree.R;
+import com.oajstudios.evpn.R;
 
 import de.blinkt.openvpn.VpnProfile;
-import com.abc.evpnfree.util.io.pem.PemObject;
-import com.abc.evpnfree.util.io.pem.PemReader;
+import com.oajstudios.evpn.util.io.pem.PemObject;
+import com.oajstudios.evpn.util.io.pem.PemReader;
 
 
 import javax.security.auth.x500.X500Principal;

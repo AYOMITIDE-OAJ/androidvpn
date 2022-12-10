@@ -49,20 +49,7 @@
             android:icon="@drawable/aboutus"
             android:title="About Us" />
 
-        <item
-            android:id="@+id/privacypolicy"
-            android:icon="@drawable/privacypolicy"
-            android:title="Privacy Policy" />
 
-        <item
-            android:id="@+id/rate_us"
-            android:icon="@drawable/rateus"
-            android:title="Rate Us" />
-
-        <item
-            android:id="@+id/moreapp"
-            android:icon="@drawable/moreapps"
-            android:title="More Apps" />
 
 
     </menu>

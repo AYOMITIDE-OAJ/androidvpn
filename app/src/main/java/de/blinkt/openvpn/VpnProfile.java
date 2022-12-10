@@ -16,10 +16,10 @@ import androidx.annotation.NonNull;
 import android.text.TextUtils;
 import android.util.Base64;
 
-import com.abc.evpnfree.R;
+import com.oajstudios.evpn.R;
 
-import com.abc.evpnfree.util.io.pem.PemObject;
-import com.abc.evpnfree.util.io.pem.PemWriter;
+import com.oajstudios.evpn.util.io.pem.PemObject;
+import com.oajstudios.evpn.util.io.pem.PemWriter;
 
 import java.io.File;
 import java.io.FileNotFoundException;

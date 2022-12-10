@@ -30,12 +30,12 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.abc.evpnfree.BuildConfig;
+import com.oajstudios.evpn.BuildConfig;
 
 
-import com.abc.evpnfree.R;
-import com.abc.evpnfree.activity.VPNInfoActivity;
-import com.abc.evpnfree.util.TotalTraffic;
+import com.oajstudios.evpn.R;
+import com.oajstudios.evpn.activity.VPNInfoActivity;
+import com.oajstudios.evpn.util.TotalTraffic;
 
 
 import java.io.IOException;

@@ -13,7 +13,7 @@ import android.os.Handler;
 import android.preference.PreferenceManager;
 
 
-import com.abc.evpnfree.R;
+import com.oajstudios.evpn.R;
 
 import de.blinkt.openvpn.core.VpnStatus.ByteCountListener;
 

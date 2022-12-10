@@ -1,4 +1,4 @@
-com.abc.evpnfree
+com.oajstudios.evpn
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -3455,7 +3455,6 @@ id month_navigation_fragment_toggle
 id month_navigation_next
 id month_navigation_previous
 id month_title
-id moreapp
 id motion_base
 id mtrl_anchor_parent
 id mtrl_calendar_day_selector_frame
@@ -3537,13 +3536,11 @@ id position
 id postLayout
 id preferenceContent
 id preferenceToolbar
-id privacypolicy
 id processes
 id progress_circular
 id progress_horizontal
 id radio
 id ramperct
-id rate_us
 id ratio
 id rectangles
 id reverseSawtooth

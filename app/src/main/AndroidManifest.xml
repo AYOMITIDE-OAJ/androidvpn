@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.abc.evpnfree">
+    package="com.oajstudios.evpn">
 
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
@@ -22,7 +22,7 @@
     <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
 
     <application
-        android:name="com.abc.evpnfree.AppController"
+        android:name="com.oajstudios.evpn.AppController"
         android:allowBackup="true"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
@@ -32,20 +32,20 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
-            android:name="com.abc.evpnfree.activity.SplashActivity"
+            android:name="com.oajstudios.evpn.activity.SplashActivity"
             android:noHistory="true"
             android:theme="@style/Splash" />
         <activity
-            android:name="com.abc.evpnfree.activity.MainActivity"
+            android:name="com.oajstudios.evpn.activity.MainActivity"
             android:label="">
 
         </activity>
-        <activity android:name="com.abc.evpnfree.activity.VPNListActivity" />
+        <activity android:name="com.oajstudios.evpn.activity.VPNListActivity" />
         <activity
-            android:name="com.abc.evpnfree.activity.VPNInfoActivity"
+            android:name="com.oajstudios.evpn.activity.VPNInfoActivity"
             android:launchMode="singleTop" />
         <activity
-            android:name="com.abc.evpnfree.activity.SettingsActivity"
+            android:name="com.oajstudios.evpn.activity.SettingsActivity"
             android:label="@string/action_settings"
             android:noHistory="true" />
 
@@ -60,23 +60,23 @@
         </service>
 
         <activity
-            android:name="com.abc.evpnfree.activity.SpeedTestActivity"
+            android:name="com.oajstudios.evpn.activity.SpeedTestActivity"
             android:label="Speed Test" />
         <activity
-            android:name="com.abc.evpnfree.activity.TOSActivity"
+            android:name="com.oajstudios.evpn.activity.TOSActivity"
             android:theme="@style/AppTheme2" />
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:theme="@android:style/Theme.Translucent" />
         <activity
-            android:name="com.abc.evpnfree.activity.StepActivity"
+            android:name="com.oajstudios.evpn.activity.StepActivity"
             android:theme="@style/Splash">
 
         </activity>
 
-        <activity android:name="com.abc.evpnfree.activity.FragmentWrapperActivity" />
-        <activity android:name="com.abc.evpnfree.activity.WelcomeActivity"
+        <activity android:name="com.oajstudios.evpn.activity.FragmentWrapperActivity" />
+        <activity android:name="com.oajstudios.evpn.activity.WelcomeActivity"
             android:theme="@style/AppThemes"
             android:exported="true"
             >
@@ -99,7 +99,7 @@
 
         <receiver
             android:exported="true"
-            android:name="com.abc.evpnfree.service.BoostAlarm" />
+            android:name="com.oajstudios.evpn.service.BoostAlarm" />
     </application>
 
 </manifest>

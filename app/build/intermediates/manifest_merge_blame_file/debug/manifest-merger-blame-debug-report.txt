@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.abc.evpnfree"
+3    package="com.oajstudios.evpn"
 4    android:versionCode="34"
 5    android:versionName="4.2" >
 6
@@ -56,12 +56,12 @@
 26    <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
 27    <permission
 27-->[com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:7:5-9:47
-28        android:name="com.abc.evpnfree.permission.C2D_MESSAGE"
+28        android:name="com.oajstudios.evpn.permission.C2D_MESSAGE"
 28-->[com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:8:9-63
 29        android:protectionLevel="signature" />
 29-->[com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:9:9-44
 30
-31    <uses-permission android:name="com.abc.evpnfree.permission.C2D_MESSAGE" /> <!-- OneSignal SDK has runtime checks Android version. -->
+31    <uses-permission android:name="com.oajstudios.evpn.permission.C2D_MESSAGE" /> <!-- OneSignal SDK has runtime checks Android version. -->
 31-->[com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:11:5-79
 31-->[com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:11:22-76
 32    <!-- <uses-sdk tools:overrideLibrary="androidx.browser"/> -->
@@ -160,8 +160,8 @@
 76
 77    <application
 77-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:24:5-103:19
-78        android:name="com.abc.evpnfree.AppController"
-78-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:25:9-54
+78        android:name="com.oajstudios.evpn.AppController"
+78-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:25:9-57
 79        android:allowBackup="true"
 79-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:26:9-35
 80        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -182,32 +182,32 @@
 88-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:32:9-40
 89        <activity
 89-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:34:9-37:45
-90            android:name="com.abc.evpnfree.activity.SplashActivity"
-90-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:35:13-68
+90            android:name="com.oajstudios.evpn.activity.SplashActivity"
+90-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:35:13-71
 91            android:noHistory="true"
 91-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:36:13-37
 92            android:theme="@style/Splash" />
 92-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:37:13-42
 93        <activity
 93-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:38:9-42:20
-94            android:name="com.abc.evpnfree.activity.MainActivity"
-94-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:39:13-66
+94            android:name="com.oajstudios.evpn.activity.MainActivity"
+94-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:39:13-69
 95            android:label="" >
 95-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:40:13-29
 96        </activity>
-97        <activity android:name="com.abc.evpnfree.activity.VPNListActivity" />
-97-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:43:9-78
-97-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:43:19-75
+97        <activity android:name="com.oajstudios.evpn.activity.VPNListActivity" />
+97-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:43:9-81
+97-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:43:19-78
 98        <activity
 98-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:44:9-46:46
-99            android:name="com.abc.evpnfree.activity.VPNInfoActivity"
-99-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:45:13-69
+99            android:name="com.oajstudios.evpn.activity.VPNInfoActivity"
+99-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:45:13-72
 100            android:launchMode="singleTop" />
 100-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:46:13-43
 101        <activity
 101-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:47:9-50:40
-102            android:name="com.abc.evpnfree.activity.SettingsActivity"
-102-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:48:13-70
+102            android:name="com.oajstudios.evpn.activity.SettingsActivity"
+102-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:48:13-73
 103            android:label="@string/action_settings"
 103-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:49:13-52
 104            android:noHistory="true" />
@@ -231,14 +231,14 @@
 114
 115        <activity
 115-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:62:9-64:42
-116            android:name="com.abc.evpnfree.activity.SpeedTestActivity"
-116-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:63:13-71
+116            android:name="com.oajstudios.evpn.activity.SpeedTestActivity"
+116-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:63:13-74
 117            android:label="Speed Test" />
 117-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:64:13-39
 118        <activity
 118-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:65:9-67:48
-119            android:name="com.abc.evpnfree.activity.TOSActivity"
-119-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:66:13-65
+119            android:name="com.oajstudios.evpn.activity.TOSActivity"
+119-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:66:13-68
 120            android:theme="@style/AppTheme2" />
 120-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:67:13-45
 121        <activity
@@ -253,18 +253,18 @@
 125-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:71:13-61
 126        <activity
 126-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:72:9-76:20
-127            android:name="com.abc.evpnfree.activity.StepActivity"
-127-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:73:13-66
+127            android:name="com.oajstudios.evpn.activity.StepActivity"
+127-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:73:13-69
 128            android:theme="@style/Splash" >
 128-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:74:13-42
 129        </activity>
-130        <activity android:name="com.abc.evpnfree.activity.FragmentWrapperActivity" />
-130-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:78:9-86
-130-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:78:19-83
+130        <activity android:name="com.oajstudios.evpn.activity.FragmentWrapperActivity" />
+130-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:78:9-89
+130-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:78:19-86
 131        <activity
 131-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:79:9-90:20
-132            android:name="com.abc.evpnfree.activity.WelcomeActivity"
-132-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:79:19-75
+132            android:name="com.oajstudios.evpn.activity.WelcomeActivity"
+132-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:79:19-78
 133            android:exported="true"
 133-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:81:13-36
 134            android:theme="@style/AppThemes" >
@@ -295,9 +295,9 @@
 147-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:97:13-49
 148
 149        <receiver
-149-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:100:9-102:66
-150            android:name="com.abc.evpnfree.service.BoostAlarm"
-150-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:102:13-63
+149-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:100:9-102:69
+150            android:name="com.oajstudios.evpn.service.BoostAlarm"
+150-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:102:13-66
 151            android:exported="true" />
 151-->C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\AndroidManifest.xml:101:13-36
 152        <receiver
@@ -317,7 +317,7 @@
 159-->[com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:57:17-81
 159-->[com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:57:25-78
 160
-161                <category android:name="com.abc.evpnfree" />
+161                <category android:name="com.oajstudios.evpn" />
 161-->[com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:59:17-61
 161-->[com.onesignal:OneSignal:4.8.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fbcefba84e97f890c8c47ab924813e47\jetified-OneSignal-4.8.2\AndroidManifest.xml:59:27-58
 162            </intent-filter>
@@ -462,7 +462,7 @@
 237-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\1d5347c85194d6ef13804ec7c7320d6e\jetified-tray-0.12.0\AndroidManifest.xml:12:9-16:44
 238            android:name="net.grandcentrix.tray.provider.TrayContentProvider"
 238-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\1d5347c85194d6ef13804ec7c7320d6e\jetified-tray-0.12.0\AndroidManifest.xml:13:13-78
-239            android:authorities="com.abc.evpnfree.tray"
+239            android:authorities="com.oajstudios.evpn.tray"
 239-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\1d5347c85194d6ef13804ec7c7320d6e\jetified-tray-0.12.0\AndroidManifest.xml:14:13-56
 240            android:exported="false"
 240-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\1d5347c85194d6ef13804ec7c7320d6e\jetified-tray-0.12.0\AndroidManifest.xml:15:13-37
@@ -472,7 +472,7 @@
 242-->[com.google.android.gms:play-services-ads-lite:21.3.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2a6225803700f471868b00aa6b29589\jetified-play-services-ads-lite-21.3.0\AndroidManifest.xml:55:9-59:39
 243            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
 243-->[com.google.android.gms:play-services-ads-lite:21.3.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2a6225803700f471868b00aa6b29589\jetified-play-services-ads-lite-21.3.0\AndroidManifest.xml:56:13-76
-244            android:authorities="com.abc.evpnfree.mobileadsinitprovider"
+244            android:authorities="com.oajstudios.evpn.mobileadsinitprovider"
 244-->[com.google.android.gms:play-services-ads-lite:21.3.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2a6225803700f471868b00aa6b29589\jetified-play-services-ads-lite-21.3.0\AndroidManifest.xml:57:13-73
 245            android:exported="false"
 245-->[com.google.android.gms:play-services-ads-lite:21.3.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2a6225803700f471868b00aa6b29589\jetified-play-services-ads-lite-21.3.0\AndroidManifest.xml:58:13-37
@@ -501,7 +501,7 @@
 258-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\00a9b5e6ea2de76dedb48df4f32e5d2f\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 259            android:name="androidx.startup.InitializationProvider"
 259-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\00a9b5e6ea2de76dedb48df4f32e5d2f\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-260            android:authorities="com.abc.evpnfree.androidx-startup"
+260            android:authorities="com.oajstudios.evpn.androidx-startup"
 260-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\00a9b5e6ea2de76dedb48df4f32e5d2f\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
 261            android:exported="false" >
 261-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\00a9b5e6ea2de76dedb48df4f32e5d2f\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
@@ -756,7 +756,7 @@
 392-->[com.google.firebase:firebase-common:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d3a5820eb4f1a31cd7987b950ee48249\jetified-firebase-common-18.0.0\AndroidManifest.xml:12:9-16:39
 393            android:name="com.google.firebase.provider.FirebaseInitProvider"
 393-->[com.google.firebase:firebase-common:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d3a5820eb4f1a31cd7987b950ee48249\jetified-firebase-common-18.0.0\AndroidManifest.xml:13:13-77
-394            android:authorities="com.abc.evpnfree.firebaseinitprovider"
+394            android:authorities="com.oajstudios.evpn.firebaseinitprovider"
 394-->[com.google.firebase:firebase-common:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d3a5820eb4f1a31cd7987b950ee48249\jetified-firebase-common-18.0.0\AndroidManifest.xml:14:13-72
 395            android:exported="false"
 395-->[com.google.firebase:firebase-common:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d3a5820eb4f1a31cd7987b950ee48249\jetified-firebase-common-18.0.0\AndroidManifest.xml:15:13-37

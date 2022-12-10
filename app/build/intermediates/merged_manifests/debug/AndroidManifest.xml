@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.abc.evpnfree"
+    package="com.oajstudios.evpn"
     android:versionCode="34"
     android:versionName="4.2" >
 
@@ -25,10 +25,10 @@
 
     <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
     <permission
-        android:name="com.abc.evpnfree.permission.C2D_MESSAGE"
+        android:name="com.oajstudios.evpn.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.abc.evpnfree.permission.C2D_MESSAGE" /> <!-- OneSignal SDK has runtime checks Android version. -->
+    <uses-permission android:name="com.oajstudios.evpn.permission.C2D_MESSAGE" /> <!-- OneSignal SDK has runtime checks Android version. -->
     <!-- <uses-sdk tools:overrideLibrary="androidx.browser"/> -->
     <!-- Required runtime permission to display notifications on Android 13 -->
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- c2dm RECEIVE are basic requirements for push messages through Google's FCM -->
@@ -75,7 +75,7 @@
     </queries>
 
     <application
-        android:name="com.abc.evpnfree.AppController"
+        android:name="com.oajstudios.evpn.AppController"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -87,19 +87,19 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.abc.evpnfree.activity.SplashActivity"
+            android:name="com.oajstudios.evpn.activity.SplashActivity"
             android:noHistory="true"
             android:theme="@style/Splash" />
         <activity
-            android:name="com.abc.evpnfree.activity.MainActivity"
+            android:name="com.oajstudios.evpn.activity.MainActivity"
             android:label="" >
         </activity>
-        <activity android:name="com.abc.evpnfree.activity.VPNListActivity" />
+        <activity android:name="com.oajstudios.evpn.activity.VPNListActivity" />
         <activity
-            android:name="com.abc.evpnfree.activity.VPNInfoActivity"
+            android:name="com.oajstudios.evpn.activity.VPNInfoActivity"
             android:launchMode="singleTop" />
         <activity
-            android:name="com.abc.evpnfree.activity.SettingsActivity"
+            android:name="com.oajstudios.evpn.activity.SettingsActivity"
             android:label="@string/action_settings"
             android:noHistory="true" />
 
@@ -113,10 +113,10 @@
         </service>
 
         <activity
-            android:name="com.abc.evpnfree.activity.SpeedTestActivity"
+            android:name="com.oajstudios.evpn.activity.SpeedTestActivity"
             android:label="Speed Test" />
         <activity
-            android:name="com.abc.evpnfree.activity.TOSActivity"
+            android:name="com.oajstudios.evpn.activity.TOSActivity"
             android:theme="@style/AppTheme2" />
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
@@ -124,12 +124,12 @@
             android:exported="false"
             android:theme="@android:style/Theme.Translucent" />
         <activity
-            android:name="com.abc.evpnfree.activity.StepActivity"
+            android:name="com.oajstudios.evpn.activity.StepActivity"
             android:theme="@style/Splash" >
         </activity>
-        <activity android:name="com.abc.evpnfree.activity.FragmentWrapperActivity" />
+        <activity android:name="com.oajstudios.evpn.activity.FragmentWrapperActivity" />
         <activity
-            android:name="com.abc.evpnfree.activity.WelcomeActivity"
+            android:name="com.oajstudios.evpn.activity.WelcomeActivity"
             android:exported="true"
             android:theme="@style/AppThemes" >
             <intent-filter>
@@ -147,7 +147,7 @@
             android:value="@string/admob_app_id" />
 
         <receiver
-            android:name="com.abc.evpnfree.service.BoostAlarm"
+            android:name="com.oajstudios.evpn.service.BoostAlarm"
             android:exported="true" />
         <receiver
             android:name="com.onesignal.FCMBroadcastReceiver"
@@ -158,7 +158,7 @@
             <intent-filter android:priority="999" >
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.abc.evpnfree" />
+                <category android:name="com.oajstudios.evpn" />
             </intent-filter>
         </receiver>
 
@@ -236,12 +236,12 @@
 
         <provider
             android:name="net.grandcentrix.tray.provider.TrayContentProvider"
-            android:authorities="com.abc.evpnfree.tray"
+            android:authorities="com.oajstudios.evpn.tray"
             android:exported="false"
             android:multiprocess="false" />
         <provider
             android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-            android:authorities="com.abc.evpnfree.mobileadsinitprovider"
+            android:authorities="com.oajstudios.evpn.mobileadsinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -257,7 +257,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.abc.evpnfree.androidx-startup"
+            android:authorities="com.oajstudios.evpn.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"
@@ -391,7 +391,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.abc.evpnfree.firebaseinitprovider"
+            android:authorities="com.oajstudios.evpn.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 

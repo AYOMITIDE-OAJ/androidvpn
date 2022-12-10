@@ -23,7 +23,7 @@
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
             app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
 
-        <com.abc.evpnfree.CustomTxTRegular
+        <com.oajstudios.evpn.CustomTxTRegular
             android:id="@+id/name"
             android:layout_width="match_parent"
             android:layout_height="50dp"
@@ -107,7 +107,7 @@
                         android:layout_marginTop="-17dp"
                         android:gravity="center">
 
-                        <com.abc.evpnfree.CustomTxTRegular
+                        <com.oajstudios.evpn.CustomTxTRegular
                             android:id="@+id/top"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -117,7 +117,7 @@
                             android:textColor="@color/txt_blue"
                             android:textSize="11sp" />
 
-                        <com.abc.evpnfree.CustomTxTRegular
+                        <com.oajstudios.evpn.CustomTxTRegular
                             android:id="@+id/centree"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -127,7 +127,7 @@
                             android:textColor="#000000"
                             android:textSize="12sp" />
 
-                        <com.abc.evpnfree.CustomTxTRegular
+                        <com.oajstudios.evpn.CustomTxTRegular
                             android:id="@+id/bottom"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -153,7 +153,7 @@
                         android:layout_height="wrap_content"
                         android:gravity="center">
 
-                        <com.abc.evpnfree.CustomTxTRegular
+                        <com.oajstudios.evpn.CustomTxTRegular
                             android:id="@+id/scanning"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -244,7 +244,7 @@
                     android:layout_marginTop="5dp"
                     android:background="#32000000" />
 
-                <com.abc.evpnfree.CustomTxTRegular
+                <com.oajstudios.evpn.CustomTxTRegular
                     android:id="@+id/processes"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -264,7 +264,7 @@
                 android:gravity="center"
                 android:orientation="vertical">
 
-                <com.abc.evpnfree.CustomTxTRegular
+                <com.oajstudios.evpn.CustomTxTRegular
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -283,7 +283,7 @@
                 android:paddingTop="2dp"
                 android:weightSum="2">
 
-                <com.abc.evpnfree.CustomTxtSemibold
+                <com.oajstudios.evpn.CustomTxtSemibold
                     android:id="@+id/appsused"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
@@ -295,7 +295,7 @@
                     android:textSize="12dp"
                     android:textStyle="bold" />
 
-                <com.abc.evpnfree.CustomTxtSemibold
+                <com.oajstudios.evpn.CustomTxtSemibold
                     android:id="@+id/appsfreed"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
@@ -350,7 +350,7 @@
                     android:layout_marginTop="5dp"
                     android:background="#32000000" />
 
-                <com.abc.evpnfree.CustomTxTRegular
+                <com.oajstudios.evpn.CustomTxTRegular
                     android:id="@+id/ramperct"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -369,7 +369,7 @@
                 android:gravity="center"
                 android:orientation="vertical">
 
-                <com.abc.evpnfree.CustomTxTRegular
+                <com.oajstudios.evpn.CustomTxTRegular
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -388,7 +388,7 @@
                 android:paddingTop="2dp"
                 android:weightSum="2">
 
-                <com.abc.evpnfree.CustomTxtSemibold
+                <com.oajstudios.evpn.CustomTxtSemibold
                     android:id="@+id/usedram"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
@@ -400,7 +400,7 @@
                     android:textSize="12dp"
                     android:textStyle="bold" />
 
-                <com.abc.evpnfree.CustomTxtSemibold
+                <com.oajstudios.evpn.CustomTxtSemibold
                     android:id="@+id/totalram"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"

@@ -5,8 +5,6 @@ package de.blinkt.openvpn.core;
 import android.os.Build;
 import androidx.annotation.NonNull;
 
-import com.abc.evpnfree.BuildConfig;
-
 
 import java.math.BigInteger;
 import java.net.Inet6Address;
