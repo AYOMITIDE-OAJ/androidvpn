@@ -1,0 +1,1450 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_me.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\me.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ad.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ad.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dz.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\dz.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_in.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\in.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button3.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\button3.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\font_calibri.ttf.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\font\\calibri.ttf"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ua.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ua.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tc.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tc.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gs.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gs.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-ldpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_connection.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gd.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gd.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nc.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\nc.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lv.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\lv.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_yt.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\yt.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ki.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ki.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mt.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mt.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_speedmeter.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\speedmeter.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pl.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\pl.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_td.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\td.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ye.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ye.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg2.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\button_bg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ss.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ss.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ky.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ky.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bo.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hold.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\hold.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_eh.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\eh.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_im.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\im.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_bg_inner_charge_booster.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\mipmap-hdpi\\bg_inner_charge_booster.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_as.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\as.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lu.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\lu.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\vn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mr.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mr.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dk.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\dk.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_se.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\se.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_co.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\co.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tr.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tr.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_more_vert_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_more_vert_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_base.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gt.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gt.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bb.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bb.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_play_arrow_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mu.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mu.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_md.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\md.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_om.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\om.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_py.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\py.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_vpn_row.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\home_vpn_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cl.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cl.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mg.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mg.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\pn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_at.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\at.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_circle_blue.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\rounded_circle_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_il.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\il.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_aq.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\aq.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cz.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cz.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pro.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\pro.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_jm.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\jm.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button2.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\button2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_va.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\va.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_waves.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\mipmap-hdpi\\waves.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gu.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gu.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rw.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\rw.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mv.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mv.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ae.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ae.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonskip.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\buttonskip.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ls.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ls.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gr.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gr.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_np.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\np.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vpninfo.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\activity_vpninfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_play_arrow_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xhdpi\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_phone_booster.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\phone_booster.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kg.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\kg.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tt.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tt.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_more_vert_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_more_vert_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pk.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\pk.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_more_vert_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_more_vert_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pause_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-hdpi\\ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ne.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ne.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ms.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ms.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fi.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\fi.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pro.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xhdpi\\pro.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_st.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\st.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hr.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\hr.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_uz.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\uz.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sc.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sc.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tf.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tf.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_si.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\si.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ga.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ga.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_et.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\et.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moreapps.PNG.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\moreapps.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lk.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\lk.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vi.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\vi.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_km.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\km.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play_arrow_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_be.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\be.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gh.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gh.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_transparent.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\logo_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shield_protected_icon.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\shield_protected_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fj.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\fj.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_jp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\jp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mh.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mh.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tg.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tg.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ic.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bt.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bt.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nf.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\nf.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mo.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wf.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\wf.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_aw.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\aw.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bz.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bz.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cr.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cr.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gg.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gg.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_is.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\is.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fk.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\fk.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vc.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\vc.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sv.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sv.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cy.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cy.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_connect_excellent.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_connect_excellent.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-hdpi\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_th.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\th.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rs.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\rs.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_so.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\so.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_af.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\af.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pw.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\pw.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ng.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ng.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lr.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\lr.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_speedmeter.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\speedmeter.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pg.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\pg.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vpnlist.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\activity_vpnlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_am.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\am.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_booster.PNG.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\booster.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ca.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ca.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ax.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ax.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kh.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\kh.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hk.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\hk.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dj.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\dj.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aboutus.PNG.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\aboutus.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_eg.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\eg.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sd.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sd.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_it.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\it.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mc.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mc.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kz.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\kz.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nr.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\nr.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_na.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\na.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_es.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\es.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\kn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tm.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tm.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ag.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ag.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pro.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-hdpi\\pro.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bj.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bj.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gy.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gy.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cm.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cm.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gb.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gb.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bd.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bd.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mz.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mz.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cg.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cg.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cx.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cx.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ar.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ar.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide4.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\welcome_slide4.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pr.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\pr.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_connection.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\connection.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_step.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\activity_step.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nl.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\nl.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pa.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\pa.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cu.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cu.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bi.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bi.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pe.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\pe.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bw.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bw.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_connect_excellent.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-hdpi\\ic_connect_excellent.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_je.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\je.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_speedmeter.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\speedmeter.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ro.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ro.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ml.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ml.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_conected.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\conected.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tj.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tj.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_speedtest.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\activity_speedtest.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ps.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ps.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cf.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cf.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\kp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_speedmeter.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\speedmeter.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_giftbox.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\giftbox.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_la.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\la.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_speed.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_speed.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vu.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\vu.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_al.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\al.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ug.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ug.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fragment_wrapper.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\activity_fragment_wrapper.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kr.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\kr.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sl.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sl.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_de.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\de.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gm.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gm.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vg.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\vg.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pt.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\pt.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_more_vert_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_more_vert_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_az.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\az.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonstyle.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\buttonstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boosternav.PNG.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\boosternav.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mk.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mk.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tk.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tk.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_more_vert_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_more_vert_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_connection.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\connection.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pf.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\pf.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cv.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cv.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_privacypolicy.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\activity_privacypolicy.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tl.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tl.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lb.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\lb.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_er.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\er.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_speedmeter.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\speedmeter.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sk.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sk.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pro.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-ldpi\\pro.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_more_vert_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_more_vert_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ch.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ch.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zm.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\zm.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide3.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\welcome_slide3.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ci.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ci.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_my.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\my.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cw.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cw.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_by.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\by.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bh.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bh.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_drawer.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\menu\\activity_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ram.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\bg_ram.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gi.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gi.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hu.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\hu.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sz.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sz.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sharewith.PNG.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\sharewith.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mm.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mm.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fo.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\fo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ph.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ph.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ec.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ec.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_an.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\an.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_privacypolicy.PNG.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\privacypolicy.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tz.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tz.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonupgrade.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\buttonupgrade.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rateus.PNG.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\rateus.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gl.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gl.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_connection.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\connection.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_networkspeed2.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\networkspeed2.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcomestep.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\activity_welcomestep.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_id.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tw.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tw.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_connect_excellent.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ic_connect_excellent.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cc.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cc.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ao.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ao.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sb.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sb.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ht.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ht.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ir.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ir.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_speedmeter.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\speedmeter.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mw.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mw.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ma.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ma.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_bg_outer_shadow.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\mipmap-hdpi\\bg_outer_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nu.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\nu.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_jo.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\jo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bm.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bm.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_speedmeter.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\speedmeter.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fr.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\fr.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gw.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gw.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_connect_excellent.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xhdpi\\ic_connect_excellent.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ee.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ee.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ck.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ck.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_uy.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\uy.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sa.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sa.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tv.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\tv.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeicon.PNG.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\homeicon.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ke.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ke.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sh.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sh.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_za.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\za.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bf.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bf.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mx.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mx.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_to.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\to.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pause_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xhdpi\\ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ai.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ai.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dom.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\dom.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide2.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\welcome_slide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bl.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bl.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pause_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\main.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bs.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bs.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ly.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ly.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_play_arrow_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-hdpi\\ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\bar.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_connection.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\connection.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_eu.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\eu.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sy.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sy.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nz.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\nz.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sr.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sr.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_li.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\li.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pro.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xxhdpi\\pro.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_vpn_row.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\vpn_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_connection.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\connection.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_br.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\br.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gq.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\gq.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sg.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sg.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_page.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\welcome_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lt.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\lt.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_choose_country.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\choose_country.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_toast.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\my_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_qa.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\qa.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_no.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\no.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\font_gotham.ttf.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\font\\gotham.ttf"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ws.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ws.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_connection.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\connection.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mq.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mq.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info_servers_bg.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\info_servers_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zw.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\zw.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_connect_excellent.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_connect_excellent.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ie.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ie.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fm.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\fm.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_batterysavernav.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\batterysavernav.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kw.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\kw.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vpn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\vpn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_au.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\au.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cd.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\cd.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\hn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pause_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_iq.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\iq.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ba.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ba.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_papper.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\ic_papper.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lc.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\lc.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ru.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ru.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mf.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\mf.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide1.xml.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\layout\\welcome_slide1.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ni.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ni.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ge.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ge.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_networkspeeds.PNG.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\networkspeeds.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clear_btn.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable\\clear_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sm.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\sm.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dm.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\dm.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_more_vert_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_more_vert_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_us.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\us.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ve.png.flat",
+        "source": "C:\\Users\\hp\\StudioProjects\\evpn_proxy\\app\\src\\main\\res\\drawable-mdpi\\ve.png"
+    }
+]

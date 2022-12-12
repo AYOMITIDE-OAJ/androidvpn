@@ -1,20 +1,22 @@
+
+
 package com.oajstudios.evpn.util.encoders;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
 
-public class Base64 {
-
+public class Base64
+{
     private static final Encoder encoder = new Base64Encoder();
-
-
+    
+    
     public static byte[] encode(
-            byte[]    data)
+        byte[]    data)
     {
         int len = (data.length + 2) / 3 * 4;
         ByteArrayOutputStream bOut = new ByteArrayOutputStream(len);
-
+        
         try
         {
             encoder.encode(data, 0, data.length, bOut);
@@ -23,37 +25,37 @@ public class Base64 {
         {
             throw new RuntimeException("exception encoding base64 string: " + e);
         }
-
+        
         return bOut.toByteArray();
     }
 
-
+    
     public static int encode(
-            byte[]                data,
-            OutputStream out)
-            throws IOException
+        byte[]                data,
+        OutputStream    out)
+        throws IOException
     {
         return encoder.encode(data, 0, data.length, out);
     }
-
-
+    
+    
     public static int encode(
-            byte[]                data,
-            int                    off,
-            int                    length,
-            OutputStream    out)
-            throws IOException
+        byte[]                data,
+        int                    off,
+        int                    length,
+        OutputStream    out)
+        throws IOException
     {
         return encoder.encode(data, off, length, out);
     }
-
-
+    
+    
     public static byte[] decode(
-            byte[]    data)
+        byte[]    data)
     {
         int len = data.length / 4 * 3;
         ByteArrayOutputStream bOut = new ByteArrayOutputStream(len);
-
+        
         try
         {
             encoder.decode(data, 0, data.length, bOut);
@@ -62,17 +64,17 @@ public class Base64 {
         {
             throw new RuntimeException("exception decoding base64 string: " + e);
         }
-
+        
         return bOut.toByteArray();
     }
-
-
+    
+    
     public static byte[] decode(
-            String    data)
+        String    data)
     {
         int len = data.length() / 4 * 3;
         ByteArrayOutputStream bOut = new ByteArrayOutputStream(len);
-
+        
         try
         {
             encoder.decode(data, bOut);
@@ -81,18 +83,16 @@ public class Base64 {
         {
             throw new RuntimeException("exception decoding base64 string: " + e);
         }
-
+        
         return bOut.toByteArray();
     }
-
-
+    
+    
     public static int decode(
-            String                data,
-            OutputStream    out)
-            throws IOException
+        String                data,
+        OutputStream    out)
+        throws IOException
     {
         return encoder.decode(data, out);
     }
-
-
 }

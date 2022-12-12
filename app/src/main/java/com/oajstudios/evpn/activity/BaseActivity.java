@@ -1,7 +1,11 @@
 package com.oajstudios.evpn.activity;
 
 import android.content.Intent;
+
 import android.content.SharedPreferences;
+import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
 import android.util.DisplayMetrics;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -9,11 +13,19 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.Toast;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
-import androidx.drawerlayout.widget.DrawerLayout;
 
+import com.androidnetworking.AndroidNetworking;
+import com.androidnetworking.common.Priority;
+import com.androidnetworking.error.ANError;
+import com.androidnetworking.interfaces.JSONArrayRequestListener;
+import com.oajstudios.evpn.App;
 import com.oajstudios.evpn.R;
+import com.oajstudios.evpn.database.DBHelper;
+import com.oajstudios.evpn.model.Server;
+import com.oajstudios.evpn.util.CountriesNames;
+import com.oajstudios.evpn.util.PropertiesService;
+
+import com.oajstudios.evpn.util.TotalTraffic;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -23,6 +35,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
+
+import de.blinkt.openvpn.core.VpnStatus;
+
+import static com.oajstudios.evpn.Constant.UpgradePro;
+
 
 public abstract class BaseActivity extends AppCompatActivity {
 

@@ -106,7 +106,7 @@
                                     android:layout_marginTop="-17dp"
                                     android:gravity="center">
 
-                                    <com.abc.evpnfree.CustomTxTRegular
+                                    <com.oajstudios.evpn.CustomTxTRegular
                                         android:id="@+id/top"
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
@@ -116,7 +116,7 @@
                                         android:textColor="@color/grey_cc"
                                         android:textSize="11sp" />
 
-                                    <com.abc.evpnfree.CustomTxTRegular
+                                    <com.oajstudios.evpn.CustomTxTRegular
                                         android:id="@+id/centree"
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
@@ -126,7 +126,7 @@
                                         android:textColor="#000000"
                                         android:textSize="12sp" />
 
-                                    <com.abc.evpnfree.CustomTxTRegular
+                                    <com.oajstudios.evpn.CustomTxTRegular
                                         android:id="@+id/bottom"
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"

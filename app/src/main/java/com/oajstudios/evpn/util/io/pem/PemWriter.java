@@ -1,12 +1,16 @@
-package com.oajstudios.evpn.util.io.pem;
 
-import com.oajstudios.evpn.util.encoders.Base64;
+
+package com.oajstudios.evpn.util.io.pem;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.Writer;
 import java.util.Iterator;
 
+import com.oajstudios.evpn.util.encoders.Base64;
+
+
+@SuppressWarnings("all")
 public class PemWriter
     extends BufferedWriter
 {
@@ -15,7 +19,7 @@ public class PemWriter
     private final int nlLength;
     private char[]  buf = new char[LINE_LENGTH];
 
-
+    
     public PemWriter(Writer out)
     {
         super(out);
@@ -31,10 +35,10 @@ public class PemWriter
         }
     }
 
-
+    
     public int getOutputSize(PemObject obj)
     {
-
+        
         int size = (2 * (obj.getType().length() + 10 + nlLength)) + 6 + 4;
 
         if (!obj.getHeaders().isEmpty())
@@ -49,16 +53,16 @@ public class PemWriter
             size += nlLength;
         }
 
-
+        
         int dataLen = ((obj.getContent().length + 2) / 3) * 4;
-
+        
         size += dataLen + (((dataLen + LINE_LENGTH - 1) / LINE_LENGTH) * nlLength);
 
         return size;
     }
-
+    
     public void writeObject(PemObjectGenerator objGen)
-            throws IOException
+        throws IOException
     {
         PemObject obj = objGen.generate();
 
@@ -78,13 +82,13 @@ public class PemWriter
 
             this.newLine();
         }
-
+        
         writeEncoded(obj.getContent());
         writePostEncapsulationBoundary(obj.getType());
     }
 
     private void writeEncoded(byte[] bytes)
-            throws IOException
+        throws IOException
     {
         bytes = Base64.encode(bytes);
 
@@ -107,19 +111,18 @@ public class PemWriter
     }
 
     private void writePreEncapsulationBoundary(
-            String type)
-            throws IOException
+        String type)
+        throws IOException
     {
         this.write("-----BEGIN " + type + "-----");
         this.newLine();
     }
 
     private void writePostEncapsulationBoundary(
-            String type)
-            throws IOException
+        String type)
+        throws IOException
     {
         this.write("-----END " + type + "-----");
         this.newLine();
     }
-
 }

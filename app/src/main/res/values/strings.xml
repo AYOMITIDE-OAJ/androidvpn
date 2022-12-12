@@ -1,8 +1,8 @@
 <resources>
 
-    <string name="app_name" translatable="false">EVPN - Ultimate VPN</string>
+    <string name="app_name" translatable="false">EVPN - Ultimate Secure VPN</string>
     <string name="app_description" translatable="false">Free Proxy &amp; VPN</string>
-    <string name="all_rights_reserved">Copyright © oajstudios.com. All Rights Reserved.</string>
+    <string name="all_rights_reserved">Copyright © ayomitide-oaj. All Rights Reserved.</string>
     <string name="interstitial_ad_unit" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
     <string name="banner_ad_unit" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
@@ -14,7 +14,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="mainText">eVPN offers Wi-Fi security, online privacy, and access content and apps like Facebook, Netflix, BBC, YouTube, and Skype via proxy.</string>
-    <string name="developer">Pharid Dot Com Pvt Ltd.</string>
+    <string name="developer">Ayomitide OAJ</string>
     <string name="next">NEXT</string>
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>

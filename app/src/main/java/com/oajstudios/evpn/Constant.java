@@ -4,14 +4,13 @@ import android.content.Context;
 import android.content.SharedPreferences;
 
 public class Constant {
-
     SharedPreferences pref;
     SharedPreferences.Editor editor;
     Context _context;
     int PRIVATE_MODE = 0;
 
-    public static final String PrivacyPolicyUrl = "/"; // PUT YOUR Privacy Policy Url Here
-    public static final String UpgradePro = "VPNPro2022";
+    public static final String PrivacyPolicyUrl = "https://pharid.com/privacy-policy/"; // PUT YOUR Privacy Policy Url Here
+    public static final String UpgradePro = "VPNPro2019"; //Please put something different for example you can put your app name here without spaces
 
 
     private static final String PREF_NAME = "snow-intro-slider";

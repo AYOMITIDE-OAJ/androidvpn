@@ -1,9 +1,12 @@
+
+
 package com.oajstudios.evpn.util.io.pem;
 
 import java.io.IOException;
 
+@SuppressWarnings("serial")
 public class PemGenerationException
- extends IOException
+    extends IOException
 {
     private Throwable cause;
 
@@ -22,5 +25,4 @@ public class PemGenerationException
     {
         return cause;
     }
-
 }

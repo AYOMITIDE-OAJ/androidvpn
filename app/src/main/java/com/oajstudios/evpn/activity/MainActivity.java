@@ -1,11 +1,5 @@
 package com.oajstudios.evpn.activity;
 
-import androidx.appcompat.app.ActionBarDrawerToggle;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
-import androidx.core.view.GravityCompat;
-import androidx.drawerlayout.widget.DrawerLayout;
-
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -15,14 +9,24 @@ import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
+
+import com.google.android.material.navigation.NavigationView;
+
+
+import androidx.core.view.GravityCompat;
+import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.appcompat.app.ActionBarDrawerToggle;
+import androidx.appcompat.widget.Toolbar;
 import android.text.TextUtils;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
+
 import android.view.animation.AccelerateInterpolator;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.ListView;
@@ -30,15 +34,26 @@ import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.oajstudios.evpn.adapter.HomeListAdapter;
 import com.afollestad.materialdialogs.MaterialDialog;
+
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
-import com.google.android.material.navigation.NavigationView;
+import com.oajstudios.evpn.BuildConfig;
 import com.oajstudios.evpn.R;
 
+import com.oajstudios.evpn.model.Server;
+import com.oajstudios.evpn.util.PropertiesService;
+import com.hookedonplay.decoviewlib.DecoView;
+import com.hookedonplay.decoviewlib.charts.SeriesItem;
+import com.hookedonplay.decoviewlib.events.DecoEvent;
+
 import java.util.ArrayList;
+
 import java.util.List;
 import java.util.Random;
+
+import static com.oajstudios.evpn.Constant.UpgradePro;
 
 public class MainActivity extends BaseActivity implements NavigationView.OnNavigationItemSelectedListener {
 
@@ -64,7 +79,7 @@ public class MainActivity extends BaseActivity implements NavigationView.OnNavig
         Toolbar toolbar = initToolbar();
         initDrawer(toolbar);
         initNavigationView();
-        procheck();
+      procheck();
 
         if (BaseActivity.connectedServer == null) {
             Button hello = (Button) findViewById(R.id.elapse2);
@@ -114,23 +129,23 @@ public class MainActivity extends BaseActivity implements NavigationView.OnNavig
 
 
         arcView.addEvent(new DecoEvent.Builder(proc).setIndex(series1Index2).setDelay(2000).setListener(new DecoEvent.ExecuteEventListener() {
-            @Override
-            public void onEventStart(DecoEvent decoEvent) {
+                                                                                                            @Override
+                                                                                                            public void onEventStart(DecoEvent decoEvent) {
 
 
-            }
+                                                                                                            }
 
-            @Override
-            public void onEventEnd(DecoEvent decoEvent) {
-
-
-                long totalServ = dbHelper.getCount();
-
-                String totalServers = String.format(getResources().getString(R.string.total_servers), totalServ);
-                centree.setText(totalServers);
+                                                                                                            @Override
+                                                                                                            public void onEventEnd(DecoEvent decoEvent) {
 
 
-            }
+                                                                                                                long totalServ = dbHelper.getCount();
+
+                                                                                                                String totalServers = String.format(getResources().getString(R.string.total_servers), totalServ);
+                                                                                                                centree.setText(totalServers);
+
+
+                                                                                                            }
         }).build());
 
 
@@ -286,10 +301,10 @@ public class MainActivity extends BaseActivity implements NavigationView.OnNavig
     }
 
     private View initPopUp(int resourse,
-                           float landPercentW,
-                           float landPercentH,
-                           float portraitPercentW,
-                           float portraitPercentH) {
+                            float landPercentW,
+                            float landPercentH,
+                            float portraitPercentW,
+                            float portraitPercentH) {
 
         LayoutInflater inflater = (LayoutInflater) getApplicationContext().getSystemService(LAYOUT_INFLATER_SERVICE);
         View view = inflater.inflate(resourse, null);
@@ -380,8 +395,6 @@ public class MainActivity extends BaseActivity implements NavigationView.OnNavig
             sharingIntent.putExtra(android.content.Intent.EXTRA_SUBJECT, "Share App");
             sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, shareBody);
             startActivity(Intent.createChooser(sharingIntent, "Share via"));
-        }else if (id == R.id.rate_us) {
-            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + getApplicationContext().getPackageName())));
         }
         else if (id == R.id.about_me) {
             aboutMyApp();
@@ -393,24 +406,9 @@ public class MainActivity extends BaseActivity implements NavigationView.OnNavig
         }
 
 
-        else if (id == R.id.privacypolicy) {
-            startActivity(new Intent(MainActivity.this, TOSActivity.class));
-
-        }
-
-        else if (id == R.id.moreapp) {
-
-            Uri uri = Uri.parse("https://play.google.com/store/apps/dev?id=8774282826145816300");
-            Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
-            try {
-                startActivity(goToMarket);
-            } catch (ActivityNotFoundException e) {
-                startActivity(new Intent(Intent.ACTION_VIEW,
-                        Uri.parse("https://play.google.com/store/apps/dev?id=8774282826145816300")));
-            }
 
 
-        }
+
 
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -443,13 +441,13 @@ public class MainActivity extends BaseActivity implements NavigationView.OnNavig
                 .icon(getResources().getDrawable(R.mipmap.ic_launcher))
                 .limitIconToDefaultSize()
                 .onPositive((dialog, which) -> {
-                    Uri uri = Uri.parse("https://play.google.com/store/apps/dev?id=");
+                    Uri uri = Uri.parse("https://play.google.com/store/apps/dev?id=8774282826145816300");
                     Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
                     try {
                         startActivity(goToMarket);
                     } catch (ActivityNotFoundException e) {
                         startActivity(new Intent(Intent.ACTION_VIEW,
-                                Uri.parse("https://play.google.com/store/apps/dev?id=")));
+                                Uri.parse("https://play.google.com/store/apps/dev?id=8774282826145816300")));
                     }
                 });
 
@@ -503,17 +501,20 @@ public class MainActivity extends BaseActivity implements NavigationView.OnNavig
         }
         else {
             AdView mAdMobAdView = (AdView) findViewById(R.id.admob_adview);
-            AdRequest adRequest = new AdRequest.Builder()
+                AdRequest adRequest = new AdRequest.Builder()
 
-                    .build();
-            mAdMobAdView.loadAd(adRequest);
+                        .build();
+                mAdMobAdView.loadAd(adRequest);
+
+
+                }
+
+            }
+
+
 
 
         }
 
-    }
 
 
-
-
-}

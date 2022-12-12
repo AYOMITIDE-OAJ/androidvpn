@@ -1,24 +1,28 @@
+
+
 package com.oajstudios.evpn.util.io.pem;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+@SuppressWarnings("all")
 public class PemObject
-        implements PemObjectGenerator {
-    private static final List EMPTY_LIST = Collections.unmodifiableList(new ArrayList());
+    implements PemObjectGenerator
+{
+	private static final List EMPTY_LIST = Collections.unmodifiableList(new ArrayList());
 
     private String type;
     private List   headers;
     private byte[] content;
 
-
+    
     public PemObject(String type, byte[] content)
     {
         this(type, EMPTY_LIST, content);
     }
 
-
+    
     public PemObject(String type, List headers, byte[] content)
     {
         this.type = type;
@@ -42,7 +46,7 @@ public class PemObject
     }
 
     public PemObject generate()
-            throws PemGenerationException
+        throws PemGenerationException
     {
         return this;
     }

@@ -1,5 +1,7 @@
 package com.oajstudios.evpn.util;
 
+
+
 public class ConnectionQuality {
 
     private static final String CONNECT_BAD = "ic_connect_bad";
@@ -65,7 +67,7 @@ public class ConnectionQuality {
     public static int getConnectionQuality(String speedStr, String sessionsStr, String pingStr) {
 
         int speed = 21;
-        //  int speed = Integer.parseInt(speedStr);
+      //  int speed = Integer.parseInt(speedStr);
         int sessions = Integer.parseInt(sessionsStr);
 
         int ping = 0;
@@ -81,5 +83,4 @@ public class ConnectionQuality {
             return 2;
         }
     }
-
 }

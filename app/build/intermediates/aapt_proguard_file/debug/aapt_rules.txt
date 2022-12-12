@@ -1,0 +1,368 @@
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:77
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:398
+-keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:258
+-keep class androidx.startup.InitializationProvider { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:322
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:332
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:352
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:342
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:372
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:361
+-keep class androidx.work.impl.background.systemalarm.RescheduleReceiver { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:300
+-keep class androidx.work.impl.background.systemalarm.SystemAlarmService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:305
+-keep class androidx.work.impl.background.systemjob.SystemJobService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:381
+-keep class androidx.work.impl.diagnostics.DiagnosticsReceiver { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:311
+-keep class androidx.work.impl.foreground.SystemForegroundService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:317
+-keep class androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:121
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:248
+-keep class com.google.android.gms.ads.AdService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:242
+-keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:253
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:283
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:291
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:276
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:392
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:77
+-keep class com.oajstudios.evpn.AppController { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:130
+-keep class com.oajstudios.evpn.activity.FragmentWrapperActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:93
+-keep class com.oajstudios.evpn.activity.MainActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:101
+-keep class com.oajstudios.evpn.activity.SettingsActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:115
+-keep class com.oajstudios.evpn.activity.SpeedTestActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:89
+-keep class com.oajstudios.evpn.activity.SplashActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:126
+-keep class com.oajstudios.evpn.activity.StepActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:118
+-keep class com.oajstudios.evpn.activity.TOSActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:98
+-keep class com.oajstudios.evpn.activity.VPNInfoActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:97
+-keep class com.oajstudios.evpn.activity.VPNListActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:131
+-keep class com.oajstudios.evpn.activity.WelcomeActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:149
+-keep class com.oajstudios.evpn.service.BoostAlarm { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:207
+-keep class com.onesignal.BootUpReceiver { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:152
+-keep class com.onesignal.FCMBroadcastReceiver { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:186
+-keep class com.onesignal.FCMIntentJobService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:183
+-keep class com.onesignal.FCMIntentService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:165
+-keep class com.onesignal.HmsMessageServiceOneSignal { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:204
+-keep class com.onesignal.NotificationDismissReceiver { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:173
+-keep class com.onesignal.NotificationOpenedActivityHMS { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:223
+-keep class com.onesignal.NotificationOpenedReceiver { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:230
+-keep class com.onesignal.NotificationOpenedReceiverAndroid22AndOlder { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:199
+-keep class com.onesignal.PermissionsActivity { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:194
+-keep class com.onesignal.SyncJobService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:190
+-keep class com.onesignal.SyncService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:215
+-keep class com.onesignal.UpgradeReceiver { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:106
+-keep class de.blinkt.openvpn.core.OpenVPNService { <init>(); }
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:237
+-keep class net.grandcentrix.tray.provider.TrayContentProvider { <init>(); }
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_alert_dialog_button_bar_material.xml:43
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_alert_dialog_title_material.xml:57
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\m3_alert_dialog.xml:51
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\m3_alert_dialog_actions.xml:43
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\m3_alert_dialog_title.xml:41
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_alert_dialog.xml:51
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_alert_dialog_actions.xml:45
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_alert_dialog_title.xml:41
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_cascading_menu_item_layout.xml:20
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_popup_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_action_mode_bar.xml:19
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_screen_toolbar.xml:43
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_alert_dialog_material.xml:18
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\m3_alert_dialog.xml:17
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_alert_dialog.xml:17
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_listitem_multichoice.xml:17
+-keep class androidx.appcompat.widget.AppCompatCheckBox { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_listitem_singlechoice.xml:17
+-keep class androidx.appcompat.widget.AppCompatRadioButton { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_alert_dialog_button_bar_material.xml:26
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\m3_alert_dialog_actions.xml:26
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_alert_dialog_actions.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_alert_dialog_title_material.xml:45
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\m3_alert_dialog_title.xml:36
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_alert_dialog_title.xml:36
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_dialog_title_material.xml:22
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_screen_simple.xml:17
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_screen_toolbar.xml:36
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_base.xml:14
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_main.xml:23
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_settings.xml:15
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_speedtest.xml:19
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_vpninfo.xml:16
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_vpnlist.xml:19
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\phone_booster.xml:17
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_screen_simple.xml:25
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\dd55ad6a29ce2e47192f89adc373a2ac\browser-1.4.0\res\layout\browser_actions_context_menu_page.xml:17
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_main.xml:33
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_settings.xml:25
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_speedtest.xml:29
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_vpninfo.xml:26
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_vpnlist.xml:29
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\home_vpn_row.xml:2
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\phone_booster.xml:39
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\vpn_row.xml:2
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_timepicker_dialog.xml:38
+-keep class androidx.constraintlayout.widget.Barrier { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_timepicker_dialog.xml:18
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout-land\material_timepicker.xml:23
+-keep class androidx.constraintlayout.widget.Guideline { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\design_bottom_sheet_dialog.xml:26
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b462ba1aa7897f05c9d003a5953724c\appcompat-1.4.1\res\layout\abc_alert_dialog_material.xml:41
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\m3_alert_dialog.xml:40
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_alert_dialog.xml:40
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_base.xml:2
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_main.xml:2
+-keep class androidx.drawerlayout.widget.DrawerLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_list.xml:39
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_list_check.xml:39
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_calendar_horizontal.xml:29
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_calendar_months.xml:18
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_step.xml:10
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_welcomestep.xml:11
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_vpninfo.xml:139
+-keep class at.grabner.circleprogress.CircleProgressView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_stub_actionbuttons.xml:5
+-keep class com.afollestad.materialdialogs.internal.MDButton { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_basic.xml:1
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_basic_check.xml:1
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_custom.xml:1
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_input.xml:1
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_input_check.xml:1
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_list.xml:1
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_list_check.xml:1
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_progress.xml:1
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_progress_indeterminate.xml:1
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bc7d5f128673e09978df6bb3c2a1eb64\jetified-core-0.9.6.0\res\layout\md_dialog_progress_indeterminate_horizontal.xml:1
+-keep class com.afollestad.materialdialogs.internal.MDRootLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_splash.xml:77
+-keep class com.daimajia.numberprogressbar.NumberProgressBar { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_main.xml:178
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_privacypolicy.xml:81
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_settings.xml:105
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_speedtest.xml:206
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_vpninfo.xml:268
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_vpnlist.xml:160
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\phone_booster.xml:421
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\test_toolbar.xml:16
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\test_toolbar_custom_background.xml:16
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\test_toolbar_elevation.xml:16
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\test_toolbar_surface.xml:16
+-keep class com.google.android.material.appbar.MaterialToolbar { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_clock_period_toggle.xml:34
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_timepicker_dialog.xml:73
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_calendar_month_navigation.xml:32
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_picker_header_fullscreen.xml:36
+-keep class com.google.android.material.button.MaterialButton { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_clock_period_toggle.xml:18
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout-land\material_clock_period_toggle_land.xml:18
+-keep class com.google.android.material.button.MaterialButtonToggleGroup { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_time_chip.xml:17
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\test_action_chip.xml:17
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\test_chip_zero_corner_radius.xml:17
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\test_reflow_chipgroup.xml:25
+-keep class com.google.android.material.chip.Chip { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\test_reflow_chipgroup.xml:19
+-keep class com.google.android.material.chip.ChipGroup { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_calendar_month.xml:18
+-keep class com.google.android.material.datepicker.MaterialCalendarGridView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\design_bottom_navigation_item.xml:40
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_navigation_rail_item.xml:39
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\test_navigation_bar_item_layout.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\design_text_input_end_icon.xml:18
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\design_text_input_start_icon.xml:18
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_picker_header_toggle.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_main.xml:240
+-keep class com.google.android.material.navigation.NavigationView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\design_layout_snackbar.xml:18
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\design_layout_snackbar_include.xml:18
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_time_input.xml:28
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_picker_text_input_date.xml:31
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_picker_text_input_date_range.xml:32
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_time_input.xml:18
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_picker_text_input_date.xml:26
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\mtrl_picker_text_input_date_range.xml:26
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\text_view_with_line_height_from_appearance.xml:17
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\text_view_with_line_height_from_layout.xml:17
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\text_view_with_line_height_from_style.xml:17
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\text_view_with_theme_line_height.xml:17
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\text_view_without_line_height.xml:17
+-keep class com.google.android.material.textview.MaterialTextView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_chip_input_combo.xml:18
+-keep class com.google.android.material.timepicker.ChipTextInputComboView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_timepicker.xml:31
+-keep class com.google.android.material.timepicker.ClockFaceView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_clockface_view.xml:25
+-keep class com.google.android.material.timepicker.ClockHandView { <init>(...); }
+
+# Referenced at C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5735b26d748f3eaf8bfeb999777af86f\material-1.5.0\res\layout\material_timepicker_dialog.xml:46
+-keep class com.google.android.material.timepicker.TimePickerView { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_main.xml:83
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_speedtest.xml:76
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\phone_booster.xml:85
+-keep class com.hookedonplay.decoviewlib.DecoView { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_main.xml:109
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_speedtest.xml:101
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\phone_booster.xml:26
+-keep class com.oajstudios.evpn.CustomTxTRegular { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\phone_booster.xml:286
+-keep class com.oajstudios.evpn.CustomTxtSemibold { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\xml\preferences.xml:10
+-keep class com.oajstudios.evpn.util.NumberPickerPreference { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_vpnlist.xml:51
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\home_vpn_row.xml:37
+-keep class de.hdodenhof.circleimageview.CircleImageView { <init>(...); }
+
+# Referenced at C:\Users\hp\StudioProjects\evpn_proxy\app\src\main\res\layout\activity_vpninfo.xml:72
+-keepclassmembers class * { *** serverOnClick(android.view.View); }
+

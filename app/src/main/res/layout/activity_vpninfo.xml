@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/serverParentLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        android:weightSum="100"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbarr"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="7"
+            android:background="@color/colorPrimary"
+            android:visibility="visible"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="93"
+            app:cardBackgroundColor="@color/colorPrimaryDark"
+            app:cardCornerRadius="22dp"
+            app:cardElevation="6dp">
+
+            <RelativeLayout
+                android:id="@+id/homeContextRL"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="330dp">
+
+                    <RelativeLayout
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_centerHorizontal="true"
+                        android:gravity="center">
+
+
+                        <ImageView
+                            android:id="@+id/serverFlag"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:layout_alignParentTop="true"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/gm"
+                            android:visibility="visible" />
+
+
+                        <TextView
+                            android:id="@+id/elapse"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginBottom="80dp"
+                            android:text="Country Name"
+                            android:textColor="#fff"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/serverConnect"
+                            android:layout_width="220dp"
+                            android:layout_height="50dp"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginBottom="22dp"
+                            android:background="@drawable/button2"
+                            android:minHeight="35dp"
+                            android:onClick="serverOnClick"
+                            android:padding="5dp"
+                            android:text="TAP TO CONNECT"
+                            android:textAllCaps="false"
+                            android:textColor="#fff" />
+
+                    </RelativeLayout>
+
+
+                </RelativeLayout>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="190dp"
+                    android:background="@drawable/buttonstyle">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:layout_centerVertical="true"
+                            android:background="@android:drawable/bottom_bar"
+                            android:gravity="center"
+                            android:paddingLeft="5dp"
+                            android:paddingTop="10dp"
+                            android:paddingRight="5dp"
+                            android:paddingBottom="10dp"
+                            android:text="@string/mainText"
+                            android:textAlignment="gravity"
+                            android:textColor="@color/cardview_light_background"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            android:visibility="gone" />
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/mapBackground"
+                            android:orientation="horizontal"
+                            android:weightSum="3">
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+
+                                <at.grabner.circleprogress.CircleProgressView
+                                    android:id="@+id/circleView"
+                                    android:layout_width="90dp"
+                                    android:layout_height="100dp"
+                                    android:layout_alignParentStart="true"
+                                    android:layout_alignParentLeft="false"
+                                    android:layout_alignParentTop="false"
+                                    android:layout_marginTop="5dp"
+                                    app:cpv_autoTextSize="true"
+                                    app:cpv_barColor="@color/disconnect_red"
+                                    app:cpv_barWidth="30dp"
+                                    app:cpv_maxValue="40"
+                                    app:cpv_rimWidth="20dp"
+                                    app:cpv_seekMode="false"
+                                    app:cpv_showUnit="true"
+                                    app:cpv_spinColor="@color/dot_dark_screen1"
+                                    app:cpv_textColor="@color/additionalServer"
+                                    app:cpv_textScale="1"
+                                    app:cpv_unit="MB"
+                                    app:cpv_unitColor="@color/rate_us_bg"
+                                    app:cpv_unitPosition="bottom"
+                                    app:cpv_value="5" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentBottom="true"
+                                    android:layout_centerHorizontal="true"
+
+                                    android:layout_marginBottom="0dp"
+                                    android:text="Speed"
+                                    android:textColor="#fff"
+                                    android:textSize="15sp"
+                                    android:textStyle="bold" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+
+                                <at.grabner.circleprogress.CircleProgressView
+                                    android:id="@+id/circleView2"
+                                    android:layout_width="90dp"
+                                    android:layout_height="90dp"
+                                    android:layout_alignParentStart="true"
+                                    android:layout_alignParentLeft="false"
+                                    android:layout_alignParentTop="false"
+                                    android:layout_marginTop="5dp"
+                                    app:cpv_autoTextSize="true"
+                                    app:cpv_barColor="@color/progress"
+                                    app:cpv_barWidth="30dp"
+                                    app:cpv_rimWidth="20dp"
+                                    app:cpv_seekMode="false"
+                                    app:cpv_showUnit="true"
+                                    app:cpv_spinColor="@color/dot_dark_screen1"
+                                    app:cpv_textColor="@color/additionalServer"
+                                    app:cpv_textScale="1"
+                                    app:cpv_unitColor="@color/rate_us_bg"
+                                    app:cpv_unitPosition="bottom"
+                                    app:cpv_value="10" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentBottom="true"
+                                    android:layout_centerHorizontal="true"
+
+                                    android:layout_marginBottom="2dp"
+                                    android:text="Session"
+                                    android:textColor="#fff"
+                                    android:textSize="15sp"
+                                    android:textStyle="bold" />
+
+
+                            </LinearLayout>
+
+
+                            <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+
+                                <at.grabner.circleprogress.CircleProgressView
+                                    android:id="@+id/circleView3"
+                                    android:layout_width="90dp"
+                                    android:layout_height="90dp"
+                                    android:layout_alignParentStart="true"
+                                    android:layout_alignParentLeft="false"
+                                    android:layout_alignParentTop="false"
+                                    android:layout_marginTop="5dp"
+                                    app:cpv_autoTextSize="true"
+                                    app:cpv_barColor="@color/additionalServer"
+                                    app:cpv_barWidth="30dp"
+                                    app:cpv_maxValue="40"
+                                    app:cpv_rimWidth="20dp"
+                                    app:cpv_showUnit="true"
+                                    app:cpv_spinColor="@color/dot_dark_screen1"
+                                    app:cpv_textColor="@color/additionalServer"
+                                    app:cpv_textScale="1"
+                                    app:cpv_unit="MS"
+                                    app:cpv_unitColor="@color/rate_us_bg"
+                                    app:cpv_unitPosition="bottom"
+                                    app:cpv_value="5" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentBottom="true"
+                                    android:layout_centerHorizontal="true"
+
+                                    android:layout_marginBottom="2dp"
+                                    android:text="Ping"
+                                    android:textColor="#fff"
+                                    android:textSize="15sp"
+                                    android:textStyle="bold" />
+
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <com.google.android.gms.ads.AdView
+                            android:id="@+id/admob_adview"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            app:adSize="BANNER"
+                            app:adUnitId="@string/banner_ad_unit"></com.google.android.gms.ads.AdView>
+
+                        <ScrollView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@color/colorPrimaryDark"
+                                android:orientation="vertical"
+                                android:paddingLeft="@dimen/activity_horizontal_margin"
+                                android:paddingTop="@dimen/activity_vertical_margin"
+                                android:paddingRight="@dimen/activity_horizontal_margin"
+                                android:paddingBottom="@dimen/activity_vertical_margin">
+
+                                <ProgressBar
+                                    android:id="@+id/serverConnectingProgress"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:layout_marginTop="10dp"
+                                    android:layout_marginBottom="10dp"
+                                    android:visibility="gone" />
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical">
+
+                                    <androidx.cardview.widget.CardView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginTop="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_weight="1"
+                                        app:cardElevation="1dp">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="50dp"
+                                            android:background="#363b40"
+                                            android:visibility="visible">
+
+                                            <TextView
+                                                android:id="@+id/textView"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignParentStart="true"
+                                                android:layout_alignParentLeft="true"
+                                                android:layout_centerVertical="true"
+                                                android:layout_marginStart="13dp"
+                                                android:layout_marginLeft="13dp"
+                                                android:textColor="@android:color/holo_orange_light"
+                                                android:textStyle="bold"
+                                                android:visibility="visible" />
+
+                                            <TextView
+                                                android:id="@+id/serverStatus"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignBaseline="@+id/textView"
+                                                android:layout_alignBottom="@+id/textView"
+                                                android:layout_alignParentEnd="true"
+                                                android:layout_alignParentRight="true"
+                                                android:layout_marginEnd="34dp"
+                                                android:layout_marginRight="34dp"
+                                                android:gravity="center"
+                                                android:textColor="#fff"
+                                                android:textStyle="bold" />
+                                        </RelativeLayout>
+
+                                    </androidx.cardview.widget.CardView>
+
+                                    <androidx.cardview.widget.CardView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_weight="1"
+                                        app:cardElevation="1dp">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="50dp"
+                                            android:background="@color/colorPrimary"
+                                            android:visibility="visible">
+
+                                            <TextView
+                                                android:id="@+id/textView1"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignParentStart="true"
+                                                android:layout_alignParentLeft="true"
+                                                android:layout_centerVertical="true"
+                                                android:layout_marginStart="15dp"
+                                                android:layout_marginLeft="15dp"
+                                                android:text="Server Traffic In"
+                                                android:textColor="@android:color/holo_orange_light"
+                                                android:textStyle="bold" />
+
+                                            <TextView
+                                                android:id="@+id/serverTrafficIn"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignBaseline="@+id/textView1"
+                                                android:layout_alignBottom="@+id/textView1"
+                                                android:layout_alignParentEnd="true"
+                                                android:layout_alignParentRight="true"
+                                                android:layout_marginEnd="34dp"
+                                                android:layout_marginRight="34dp"
+                                                android:gravity="center"
+                                                android:textAlignment="gravity"
+                                                android:textColor="#fff"
+                                                android:textStyle="bold" />
+                                        </RelativeLayout>
+
+
+                                    </androidx.cardview.widget.CardView>
+
+                                    <androidx.cardview.widget.CardView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_weight="1"
+                                        app:cardElevation="1dp">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="50dp"
+                                            android:background="#363b40"
+                                            android:visibility="visible">
+
+                                            <TextView
+                                                android:id="@+id/textView2"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignParentStart="true"
+                                                android:layout_alignParentLeft="true"
+                                                android:layout_centerVertical="true"
+                                                android:layout_marginStart="15dp"
+                                                android:layout_marginLeft="15dp"
+                                                android:text="Server Traffic Out"
+                                                android:textColor="@android:color/holo_orange_light"
+                                                android:textStyle="bold" />
+
+                                            <TextView
+                                                android:id="@+id/serverTrafficOut"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignBaseline="@+id/textView2"
+                                                android:layout_alignBottom="@+id/textView2"
+                                                android:layout_alignParentEnd="true"
+                                                android:layout_alignParentRight="true"
+                                                android:layout_marginEnd="34dp"
+                                                android:layout_marginRight="34dp"
+                                                android:gravity="center"
+                                                android:textAlignment="gravity"
+                                                android:textColor="#fff"
+                                                android:textStyle="bold" />
+                                        </RelativeLayout>
+
+
+                                    </androidx.cardview.widget.CardView>
+
+                                    <androidx.cardview.widget.CardView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_weight="1"
+                                        app:cardElevation="1dp">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="50dp"
+                                            android:background="@color/colorPrimary"
+                                            android:visibility="visible">
+
+                                            <TextView
+                                                android:id="@+id/textView3"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignParentStart="true"
+                                                android:layout_alignParentLeft="true"
+                                                android:layout_centerVertical="true"
+                                                android:layout_marginStart="15dp"
+                                                android:layout_marginLeft="15dp"
+                                                android:text="Total Traffic"
+                                                android:textColor="@android:color/holo_orange_light"
+                                                android:textStyle="bold" />
+
+                                            <TextView
+                                                android:id="@+id/serverTrafficInTotally"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignBaseline="@+id/textView3"
+                                                android:layout_alignBottom="@+id/textView3"
+                                                android:layout_alignParentEnd="true"
+                                                android:layout_alignParentRight="true"
+                                                android:layout_marginEnd="34dp"
+                                                android:layout_marginRight="34dp"
+                                                android:gravity="center"
+                                                android:textAlignment="gravity"
+                                                android:textColor="#fff"
+                                                android:textStyle="bold" />
+                                        </RelativeLayout>
+
+
+                                    </androidx.cardview.widget.CardView>
+
+                                    <androidx.cardview.widget.CardView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_weight="1"
+                                        app:cardElevation="1dp">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="50dp"
+                                            android:background="#363b40"
+                                            android:visibility="visible">
+
+                                            <TextView
+                                                android:id="@+id/textView4"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignParentStart="true"
+                                                android:layout_alignParentLeft="true"
+                                                android:layout_centerVertical="true"
+                                                android:layout_marginStart="15dp"
+                                                android:layout_marginLeft="15dp"
+                                                android:text="Traffic Consumed"
+                                                android:textColor="@android:color/holo_orange_light"
+                                                android:textStyle="bold" />
+
+                                            <TextView
+                                                android:id="@+id/serverTrafficOutTotally"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignBaseline="@+id/textView4"
+                                                android:layout_alignBottom="@+id/textView4"
+                                                android:layout_alignParentEnd="true"
+                                                android:layout_alignParentRight="true"
+                                                android:layout_marginEnd="34dp"
+                                                android:layout_marginRight="34dp"
+                                                android:gravity="center"
+                                                android:textAlignment="gravity"
+                                                android:textColor="#fff"
+                                                android:textStyle="bold" />
+                                        </RelativeLayout>
+
+
+                                    </androidx.cardview.widget.CardView>
+                                </LinearLayout>
+
+                            </LinearLayout>
+                        </ScrollView>
+                    </LinearLayout>
+
+
+                </androidx.cardview.widget.CardView>
+
+
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

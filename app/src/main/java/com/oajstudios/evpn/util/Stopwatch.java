@@ -22,5 +22,4 @@ public class Stopwatch {
         calendar.setTimeInMillis(getDiff());
         return sdf.format(calendar.getTime());
     }
-
 }

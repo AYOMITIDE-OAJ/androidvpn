@@ -1,3 +1,5 @@
+
+
 package com.oajstudios.evpn.util.io.pem;
 
 public class PemHeader
@@ -23,7 +25,7 @@ public class PemHeader
 
     public int hashCode()
     {
-        return getHashCode(this.name) + 31 * getHashCode(this.value);
+        return getHashCode(this.name) + 31 * getHashCode(this.value);    
     }
 
     public boolean equals(Object o)

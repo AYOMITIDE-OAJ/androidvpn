@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
 
     android:background="@color/colorPrimary"
-    tools:context="com.abc.evpnfree.activity.SplashActivity">
+    tools:context="com.oajstudios.evpn.activity.SplashActivity">
 
     <LinearLayout
         android:id="@+id/splashh"

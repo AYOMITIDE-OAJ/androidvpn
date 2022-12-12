@@ -46,7 +46,6 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 
         onCreate(db);
     }
-
     public void addUser(String name, String email, String uid, String created_at) {
         SQLiteDatabase db = this.getWritableDatabase();
 
@@ -89,4 +88,5 @@ public class SQLiteHandler extends SQLiteOpenHelper {
 
         Log.d(TAG, "Deleted all user info from sqlite");
     }
+
 }

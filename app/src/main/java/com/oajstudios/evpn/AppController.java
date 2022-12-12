@@ -1,12 +1,13 @@
 package com.oajstudios.evpn;
 
+
 import android.text.TextUtils;
 
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.Volley;
 
-public class AppController extends App{
+public class AppController extends App {
 
     public static final String TAG = AppController.class.getSimpleName();
 
@@ -47,5 +48,4 @@ public class AppController extends App{
             mRequestQueue.cancelAll(tag);
         }
     }
-
 }

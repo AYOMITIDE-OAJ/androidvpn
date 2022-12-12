@@ -6,6 +6,7 @@ import android.net.NetworkInfo;
 
 import com.oajstudios.evpn.App;
 
+
 public class NetworkState {
 
     public static boolean isOnline()

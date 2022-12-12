@@ -16,10 +16,7 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
 
-        OneSignal.startInit(this)
-                .inFocusDisplaying(OneSignal.OSInFocusDisplayOption.Notification)
-                .autoPromptLocation(true)
-                .init();
+        OneSignal.initWithContext(this);
 
         MobileAds.initialize(this, new OnInitializationCompleteListener() {
             @Override
@@ -43,6 +40,5 @@ public class App extends Application {
     public static App getInstance() {
         return instance;
     }
-
 
 }

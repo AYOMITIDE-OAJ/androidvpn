@@ -1,6 +1,6 @@
-package com.oajstudios.evpn.util.io.pem;
 
-import com.oajstudios.evpn.util.encoders.Base64;
+
+package com.oajstudios.evpn.util.io.pem;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,8 +8,10 @@ import java.io.Reader;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.oajstudios.evpn.util.encoders.Base64;
+
 public class PemReader
-        extends BufferedReader
+    extends BufferedReader
 {
     private static final String BEGIN = "-----BEGIN ";
     private static final String END = "-----END ";
@@ -20,7 +22,7 @@ public class PemReader
     }
 
     public PemObject readPemObject()
-            throws IOException
+        throws IOException
     {
         String line = readLine();
 
@@ -45,12 +47,12 @@ public class PemReader
     }
 
     private PemObject loadObject(String type)
-            throws IOException
+        throws IOException
     {
         String          line;
         String          endMarker = END + type;
         StringBuilder buf = new StringBuilder();
-        List headers = new ArrayList();
+        List            headers = new ArrayList();
 
         while ((line = readLine()) != null)
         {
@@ -69,7 +71,7 @@ public class PemReader
             {
                 break;
             }
-
+            
             buf.append(line.trim());
         }
 
@@ -80,4 +82,5 @@ public class PemReader
 
         return new PemObject(type, headers, Base64.decode(buf.toString()));
     }
+
 }

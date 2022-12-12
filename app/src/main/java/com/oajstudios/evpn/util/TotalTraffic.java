@@ -6,6 +6,8 @@ import android.content.Intent;
 import java.util.ArrayList;
 import java.util.List;
 
+import de.blinkt.openvpn.core.OpenVPNService;
+
 public class TotalTraffic {
 
     public static final String TRAFFIC_ACTION = "traffic_action";
@@ -61,6 +63,5 @@ public class TotalTraffic {
         if (outTotal != 0)
             PropertiesService.setUploaded(outTotal);
     }
-
 
 }
