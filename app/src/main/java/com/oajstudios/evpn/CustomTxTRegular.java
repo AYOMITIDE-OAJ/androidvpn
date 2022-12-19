@@ -4,9 +4,7 @@ import android.content.Context;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
 
-/**
- * Created by 123 on 25-Apr-18.
- */
+
 
 public class CustomTxTRegular extends androidx.appcompat.widget.AppCompatTextView {
 
