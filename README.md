@@ -24,6 +24,9 @@ Features Include
     <td>
       <img src="https://github.com/AYOMITIDE-OAJ/androidvpn/blob/main/app/screenshot/Screenshot_1670671829.png" width="250" height="500"/>  
     </td>
+    <td>
+      <img src="https://github.com/AYOMITIDE-OAJ/androidvpn/blob/main/app/screenshot/Screenshot_1670671846.png" width="250" height="500"/>
+    </td>
   </tr>
   <tr>
     <td>
@@ -34,6 +37,9 @@ Features Include
     </td>
     <td>
       <img src="https://github.com/AYOMITIDE-OAJ/androidvpn/blob/main/app/screenshot/Screenshot_1670671891.png" width="250" height="500"/>  
+     </td> 
+      <td>
+      <img src="https://github.com/AYOMITIDE-OAJ/androidvpn/blob/main/app/screenshot/Screenshot_1670671869.png" width="250" height="500"/>  
      </td> 
    </tr>
   
