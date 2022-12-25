@@ -29,15 +29,12 @@ Features Include
     <td>
       <img src="https://github.com/AYOMITIDE-OAJ/androidvpn/blob/main/app/screenshot/Screenshot_1670694754.png" width="250" height="500"/>  
     </td>
-    
      <td>
       <img src="https://github.com/AYOMITIDE-OAJ/androidvpn/blob/main/app/screenshot/Screenshot_1670671850.png" width="250" height="500"/>  
     </td>
-    
-     <td>
+    <td>
       <img src="https://github.com/AYOMITIDE-OAJ/androidvpn/blob/main/app/screenshot/Screenshot_1670671891.png" width="250" height="500"/>  
-     </td>
-    
+     </td> 
    </tr>
   
 </table>
